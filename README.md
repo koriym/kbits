@@ -1,6 +1,6 @@
 # KBits
 
-Articles worth reading. Ideas worth spreading.
+Articles worth reading. Ideas worth translating.
 
 A personal archive of articles and posts I find valuable, preserved in my native language.
 
