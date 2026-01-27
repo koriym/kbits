@@ -8,6 +8,10 @@
 
 ### January
 
+- [Karpathy流 Claude Codeガイドライン](./2026-01-28-karpathy-claude-guidelines.md)  
+  Forrest Chang (based on Andrej Karpathy) | LLMコーディングエージェントの4原則 — 仮定の明示化、シンプル第一、外科的変更、ゴール駆動  
+  *2026-01-28*
+
 - [Claude Skillsの効果的なデプロイ方法（完全ガイド）](./2026-01-26-claude-skills-deployment-guide.md)  
   AI Edge | 作成から最適化まで、90%のゴミを避けてエリートSkillsを作る実践マニュアル  
   *2026-01-27*
@@ -36,4 +40,4 @@
 
 ---
 
-*Total: 5 articles*
+*Total: 6 articles*
