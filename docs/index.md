@@ -8,6 +8,10 @@
 
 ### January
 
+- [Management as AI superpower](./2026-01-28-management-as-ai-superpower.md)  
+  Ethan Mollick | AIエージェント時代のマネジメントスキル — 委譲の方程式、専門知識の価値、ソフトスキルがハードスキルになる時代  
+  *2026-01-28*
+
 - [Karpathy流 Claude Codeガイドライン](./2026-01-28-karpathy-claude-guidelines.md)  
   Forrest Chang (based on Andrej Karpathy) | LLMコーディングエージェントの4原則 — 仮定の明示化、シンプル第一、外科的変更、ゴール駆動  
   *2026-01-28*
@@ -40,4 +44,4 @@
 
 ---
 
-*Total: 6 articles*
+*Total: 7 articles*
