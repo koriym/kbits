@@ -4,6 +4,14 @@
 
 ---
 
+## 2026
+
+### January
+
+- [LLMコーディングエージェントの実践: 2025年12月の転換点](./2026-01-26-karpathy-llm-coding-agents.md)  
+  Andrej Karpathy | 80/20ワークフロー逆転、Tenacity、Slopacolypse 2026  
+  *2026-01-27*
+
 ## 2025
 
 ### October
@@ -14,4 +22,4 @@
 
 ---
 
-*Total: 1 article*
+*Total: 2 articles*
