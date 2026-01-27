@@ -8,6 +8,10 @@
 
 ### January
 
+- [Claude Skillsの効果的なデプロイ方法（完全ガイド）](./2026-01-26-claude-skills-deployment-guide.md)  
+  AI Edge | 作成から最適化まで、90%のゴミを避けてエリートSkillsを作る実践マニュアル  
+  *2026-01-27*
+
 - [LLMコーディングエージェントの実践: 2025年12月の転換点](./2026-01-26-karpathy-llm-coding-agents.md)  
   Andrej Karpathy | 80/20ワークフロー逆転、Tenacity、Slopacolypse 2026  
   *2026-01-27*
@@ -22,4 +26,4 @@
 
 ---
 
-*Total: 2 articles*
+*Total: 3 articles*
