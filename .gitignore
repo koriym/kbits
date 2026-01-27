@@ -1,0 +1,16 @@
+# Private workspace files
+memory/
+SOUL.md
+USER.md
+AGENTS.md
+IDENTITY.md
+TOOLS.md
+HEARTBEAT.md
+BOOTSTRAP.md
+canvas/
+
+# Claude/Clawdbot
+.claude/
+
+# System
+.DS_Store
