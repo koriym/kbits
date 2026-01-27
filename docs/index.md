@@ -8,6 +8,10 @@
 
 ### January
 
+- [CloudflareのAI生成Matrix実装ブログ投稿についての批判](./2026-01-28-cloudflare-ai-generated-matrix-post.md)  
+  Jade (@JadedBlueEyes) | 企業ブログのAI生成コンテンツ問題 — バイブコーディング、TODO認証、迅速な隠蔽工作  
+  *2026-01-28*
+
 - [Management as AI superpower](./2026-01-28-management-as-ai-superpower.md)  
   Ethan Mollick | AIエージェント時代のマネジメントスキル — 委譲の方程式、専門知識の価値、ソフトスキルがハードスキルになる時代  
   *2026-01-28*
@@ -44,4 +48,4 @@
 
 ---
 
-*Total: 7 articles*
+*Total: 8 articles*
