@@ -8,6 +8,10 @@
 
 ### January
 
+- [滑走路に隠された工学](./2026-01-28-hidden-engineering-runways.md)  
+  Grady Hillhouse (Practical Engineering) | 滑走路設計の見えない複雑性 — 舗装構造、摩擦管理、EMAS、航空安全の継続的改善  
+  *2026-01-28*
+
 - [CloudflareのAI生成Matrix実装ブログ投稿についての批判](./2026-01-28-cloudflare-ai-generated-matrix-post.md)  
   Jade (@JadedBlueEyes) | 企業ブログのAI生成コンテンツ問題 — バイブコーディング、TODO認証、迅速な隠蔽工作  
   *2026-01-28*
@@ -48,4 +52,4 @@
 
 ---
 
-*Total: 8 articles*
+*Total: 9 articles*
