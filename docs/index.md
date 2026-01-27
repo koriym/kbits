@@ -24,6 +24,12 @@
   JetBrains調査 | 24,534人の開発者 | AI採用85%、生産性指標の再定義  
   *2026-01-27*
 
+### March
+
+- [キュビスト・コーディング: ピカソがAPIに出会うとき](./2025-03-31-cubist-coding.md)  
+  Akihito Koriyama | キュビズムの多視点アプローチから学ぶアフォーダンス中心API設計  
+  *2026-01-27*
+
 ---
 
-*Total: 3 articles*
+*Total: 4 articles*
