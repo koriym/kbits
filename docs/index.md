@@ -16,6 +16,10 @@
   Andrej Karpathy | 80/20ワークフロー逆転、Tenacity、Slopacolypse 2026  
   *2026-01-27*
 
+- [I made my own git](./2026-01-27-i-made-my-own-git.md)  
+  TonyStr | Gitの内部実装をRustで再現 — ハッシング、tree/commit objects、content-addressable storage  
+  *2026-01-27*
+
 ## 2025
 
 ### October
@@ -32,4 +36,4 @@
 
 ---
 
-*Total: 4 articles*
+*Total: 5 articles*
