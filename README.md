@@ -23,7 +23,7 @@ Virality and popularity don't matter. Only whether it has value to me.
 ## Content policy
 
 ### X (Twitter) posts
-Full text archived. X does not claim copyright over posts. Source URL, author, and timestamp always included.
+~Full text archived. X does not claim copyright over posts.~ Source URL, author, and timestamp always included.
 
 ### Personal blog articles
 Permission requested from authors. Full translation published after approval. If permission is not granted, summary and commentary only.
