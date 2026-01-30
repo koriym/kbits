@@ -8,6 +8,10 @@
 
 ### January
 
+- [AIが技術習得に与える影響](./2026-01-31-how-ai-impacts-skill-formation.md)  
+  Judy Hanwen Shen, Alex Tamkin (Anthropic) | AI支援でスキル形成が17%低下 — 生産性向上は能力獲得の近道ではない  
+  *2026-01-31*
+
 - [絵文字デザインの収斂：2018-2026年レビュー](./2026-01-31-emoji-design-convergence-review-2018-2026.md)  
   Emojipedia | 8年間の絵文字デザイン史 — 断片化からApple重力、Unicode裁定、そして意図的逸脱まで  
   *2026-01-31*
@@ -56,4 +60,4 @@
 
 ---
 
-*Total: 10 articles*
+*Total: 11 articles*
