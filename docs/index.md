@@ -8,6 +8,10 @@
 
 ### January
 
+- [絵文字デザインの収斂：2018-2026年レビュー](./2026-01-31-emoji-design-convergence-review-2018-2026.md)  
+  Emojipedia | 8年間の絵文字デザイン史 — 断片化からApple重力、Unicode裁定、そして意図的逸脱まで  
+  *2026-01-31*
+
 - [滑走路に隠された工学](./2026-01-28-hidden-engineering-runways.md)  
   Grady Hillhouse (Practical Engineering) | 滑走路設計の見えない複雑性 — 舗装構造、摩擦管理、EMAS、航空安全の継続的改善  
   *2026-01-28*
@@ -52,4 +56,4 @@
 
 ---
 
-*Total: 9 articles*
+*Total: 10 articles*
