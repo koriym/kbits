@@ -8,6 +8,14 @@
 
 ### January
 
+- [Automatic programming](./2026-01-31-automatic-programming.md)  
+  antirez (Salvatore Sanfilippo) | AI時代のプログラミング — Automatic ProgrammingとVibe Codingの違い、ビジョンはまだ自動化されていない  
+  *2026-01-31*
+
+- [教室で生成AIを説明する方法](./2026-01-31-how-to-explain-generative-ai-in-classroom.md)  
+  Dale Lane | Scratchを使った包括的AI教育カリキュラム — 批判的思考を含む本質的リテラシー教育  
+  *2026-01-31*
+
 - [PlayStation 2 リコンパイルプロジェクト — ゲーム保存の新しいアプローチ](./2026-01-31-ps2-recompilation.md)  
   RedGamingTech | エミュレーションを超えるリコンパイル技術 — PS2ゲームのネイティブPC移植への道  
   *2026-01-31*
@@ -72,4 +80,4 @@
 
 ---
 
-*Total: 14 articles*
+*Total: 16 articles*
