@@ -1,0 +1,29 @@
+name: Recommend URL
+description: Submit an article for KBits curation
+title: "Recommend URL"
+labels: ["recommended-url"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Submit an article for KBits curation
+        
+        Articles worth reading. Ideas worth translating.
+        
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Article URL to curate
+      placeholder: https://example.com/article
+    validations:
+      required: true
+      
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes (optional)
+      description: Any additional context or reasons for recommendation
+      placeholder: Why is this article worth archiving?
+    validations:
+      required: false
