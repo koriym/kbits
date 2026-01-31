@@ -8,6 +8,10 @@
 
 ### January
 
+- [Kimi K2.5 技術レポート - マルチモーダルエージェントモデルの新時代](./2026-01-31-kimi-k2-5-technical-report.md)  
+  Moonshot AI | Agent Swarm、ネイティブマルチモーダリティ、GPT-5.2/Claude 4.5レベルの性能をオープンソースで実現  
+  *2026-01-31*
+
 - [AIが技術習得に与える影響](./2026-01-31-how-ai-impacts-skill-formation.md)  
   Judy Hanwen Shen, Alex Tamkin (Anthropic) | AI支援でスキル形成が17%低下 — 生産性向上は能力獲得の近道ではない  
   *2026-01-31*
@@ -60,4 +64,4 @@
 
 ---
 
-*Total: 11 articles*
+*Total: 12 articles*
