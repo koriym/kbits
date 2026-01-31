@@ -8,6 +8,10 @@
 
 ### January
 
+- [What You See Is What It Does: A Structural Pattern for Legible Software](./2026-01-31-wysiwyg-structural-pattern.md)  
+  Daniel Jackson (MIT) | LLM時代のソフトウェアアーキテクチャ — Concepts と Synchronizations による可読性・モジュール性・保守性の同時達成  
+  *2026-01-31*
+
 - [Kimi K2.5 技術レポート - マルチモーダルエージェントモデルの新時代](./2026-01-31-kimi-k2-5-technical-report.md)  
   Moonshot AI | Agent Swarm、ネイティブマルチモーダリティ、GPT-5.2/Claude 4.5レベルの性能をオープンソースで実現  
   *2026-01-31*
@@ -64,4 +68,4 @@
 
 ---
 
-*Total: 12 articles*
+*Total: 13 articles*
