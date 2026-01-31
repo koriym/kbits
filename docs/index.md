@@ -8,6 +8,10 @@
 
 ### January
 
+- [PlayStation 2 リコンパイルプロジェクト — ゲーム保存の新しいアプローチ](./2026-01-31-ps2-recompilation.md)  
+  RedGamingTech | エミュレーションを超えるリコンパイル技術 — PS2ゲームのネイティブPC移植への道  
+  *2026-01-31*
+
 - [What You See Is What It Does: A Structural Pattern for Legible Software](./2026-01-31-wysiwyg-structural-pattern.md)  
   Daniel Jackson (MIT) | LLM時代のソフトウェアアーキテクチャ — Concepts と Synchronizations による可読性・モジュール性・保守性の同時達成  
   *2026-01-31*
@@ -68,4 +72,4 @@
 
 ---
 
-*Total: 13 articles*
+*Total: 14 articles*
