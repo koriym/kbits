@@ -174,6 +174,13 @@ AIツールは強力だが、使い方次第で学習を促進することも阻
 
 **推奨読者:** ソフトウェアエンジニア、技術教育担当者、CTOやテックリード、AI安全性研究者
 
-**関連リソース:**
+## リンク
+
 - 論文GitHub: https://github.com/safety-research/how-ai-impacts-skill-formation
 - Anthropic Fellows Program: https://www.anthropic.com/fellows
+
+---
+
+**タグ:** #AI #スキル形成 #教育 #ソフトウェア工学 #安全性研究 #学習曲線
+
+**関連トピック:** #キャリア開発 #技術教育 #AIリテラシー #組織学習
