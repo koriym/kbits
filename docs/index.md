@@ -6,6 +6,12 @@
 
 ## 2026
 
+### February
+
+- [AIバブルに対するヘイターズガイド](./2026-02-02-haters-guide-ai-bubble.md)  
+  Ed Zitron | $560Bの投資vs $35Bの収益 — 具体的な財務データでAIバブルの脆弱性を解体する決定版  
+  *2026-02-02*
+
 ### January
 
 - [Automatic programming](./2026-01-31-automatic-programming.md)  
@@ -80,4 +86,4 @@
 
 ---
 
-*Total: 16 articles*
+*Total: 17 articles*
