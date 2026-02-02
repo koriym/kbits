@@ -71,7 +71,7 @@ Cloudflareが「Cloudflare Workers上でMatrixを実装した」と主張する�
 - **TODOは警告信号:** 本番環境レベルと主張するコードに「TODO: Check authorisation」があるのは大問題
 - **迅速な対応に注意:** 批判後すぐにコミットがクリーンアップされるのは、何かを隠している証拠
 
-## 関連リンク
+## リンク
 
 - Cloudflareブログ投稿: https://blog.cloudflare.com/serverless-matrix-homeserver-workers/
 - GitHubリポジトリ: https://github.com/nkuntz1934/matrix-workers
