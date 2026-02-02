@@ -149,3 +149,9 @@ Skillツール集の提供も親切だ。特にSkillsMPの「80,000以上のSkil
 - [SkillsMP](https://skillsmp.com/)
 - [Claude Skills Docs](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
 - [Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills)
+
+---
+
+**タグ:** #Claude #AIスキル #デプロイ #ツール統合 #効率化
+
+**関連トピック:** #AIエージェント #ワークフロー #プラグインアーキテクチャ

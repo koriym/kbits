@@ -118,3 +118,9 @@ Karpathyが考えている疑問:
 
 - [Original Thread](https://x.com/karpathy/status/2015883857489522876)
 - [Andrej Karpathy (@karpathy)](https://x.com/karpathy)
+
+---
+
+**タグ:** #LLM #コーディングエージェント #AI開発 #ワークフロー #生産性
+
+**関連トピック:** #Karpathy #Claude #Cursor #ソフトウェア開発 #自動化

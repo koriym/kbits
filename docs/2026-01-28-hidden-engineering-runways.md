@@ -103,9 +103,14 @@ FAAには専用設計ソフト「FAARFIELD」（FAA Rigid and Flexible Iterative
 
 ---
 
-**タグ:** #土木工学 #航空工学 #インフラ #安全設計 #教育コンテンツ
+## リンク
 
-**関連リンク:**
 - [Practical Engineering (YouTube)](https://www.youtube.com/c/PracticalEngineeringChannel)
 - [SKYbrary - Aviation Safety Knowledge](https://skybrary.aero/)
 - [FAA Airport Engineering](https://www.faa.gov/airports/engineering)
+
+---
+
+**タグ:** #土木工学 #航空工学 #インフラ #安全設計 #教育コンテンツ
+
+**関連トピック:** #空港設計 #工学教育 #YouTube教育

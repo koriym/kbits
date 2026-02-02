@@ -61,4 +61,6 @@ PS2Recompが成熟すれば:
 
 ---
 
-**Tags:** #game-preservation #recompilation #ps2 #emulation #technical
+**タグ:** #ゲーム保存 #再コンパイル #PS2 #エミュレーション #技術
+
+**関連トピック:** #レトロゲーム #ソフトウェア移植 #文化遺産 #MIPS

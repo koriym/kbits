@@ -89,3 +89,9 @@ AI採用率85%は高いが、15%の「非採用者」の存在も重要だ。彼
 - [完全なレポート](https://devecosystem-2025.jetbrains.com/)
 - [生データダウンロード](https://resources.jetbrains.com/storage/products/research/DevEco2025/RawData.zip)
 - [データプレイグラウンド](https://www.jetbrains.com/lp/devecosystem-data-playground/)
+
+---
+
+**タグ:** #AI #開発者調査 #プログラミング #統計 #ツール #生産性
+
+**関連トピック:** #JetBrains #AIツール採用 #コーディング支援 #開発環境
