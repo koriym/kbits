@@ -8,6 +8,10 @@
 
 ### February
 
+- [Ian Hickson インタビュー：HTML仕様エディターが語るWeb標準の舞台裏](./2026-02-06-interview-ian-hickson-html-editor.md)  
+  HTML5Doctor | HTMLの父が明かす混沌の哲学 — なぜ「No」と言うのか、最大の成果と失敗、パテントという脅威  
+  *2026-02-06*
+
 - [AIバブルに対するヘイターズガイド](./2026-02-02-haters-guide-ai-bubble.md)  
   Ed Zitron | $560Bの投資vs $35Bの収益 — 具体的な財務データでAIバブルの脆弱性を解体する決定版  
   *2026-02-02*
@@ -86,4 +90,4 @@
 
 ---
 
-*Total: 17 articles*
+*Total: 18 articles*
