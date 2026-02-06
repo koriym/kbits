@@ -8,6 +8,10 @@
 
 ### February
 
+- [ソフトウェア開発のルネサンス：エージェント・ファースト開発への転換](./2026-02-06-agent-first-software-development.md)  
+  Greg Brockman (OpenAI) | OpenAI内部のエージェント駆動開発戦略 — AGENTS.md、「スロップにノー」、コンテキストキュレーションへの転換  
+  *2026-02-06*
+
 - [Ian Hickson インタビュー：HTML仕様エディターが語るWeb標準の舞台裏](./2026-02-06-interview-ian-hickson-html-editor.md)  
   HTML5Doctor | HTMLの父が明かす混沌の哲学 — なぜ「No」と言うのか、最大の成果と失敗、パテントという脅威  
   *2026-02-06*
@@ -90,4 +94,4 @@
 
 ---
 
-*Total: 18 articles*
+*Total: 19 articles*
