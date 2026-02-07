@@ -8,6 +8,10 @@
 
 ### February
 
+- [Boris Chney - Metaプリンシパルエンジニア、Claude Code開発者のキャリア](./2026-02-07-boris-chney-meta-engineer-interview.md)  
+  Boris Chney | 潜在的需要、組織横断コラボ、技術リーダーシップ、AI時代の生産性70%向上 — 1時間24分の完全翻訳  
+  *2026-02-07*
+
 - [ソフトウェア開発のルネサンス：エージェント・ファースト開発への転換](./2026-02-06-agent-first-software-development.md)  
   Greg Brockman (OpenAI) | OpenAI内部のエージェント駆動開発戦略 — AGENTS.md、「スロップにノー」、コンテキストキュレーションへの転換  
   *2026-02-06*
@@ -94,4 +98,4 @@
 
 ---
 
-*Total: 19 articles*
+*Total: 20 articles*
