@@ -322,16 +322,12 @@ Borisは多くの経験があったにもかかわらず、Metaにミッドレ�
 
 ---
 
-## 完全翻訳
+## 参考リンク
 
-（元のYouTubeトランスクリプト日本語訳 - 約50,000字）
-
-[ここに元の翻訳テキストを段落分けして挿入]
+- **[元のYouTubeインタビュー](https://www.youtube.com/watch?v=AmdLVWMdjOk)** - 1時間24分の完全版
+- Boris Chney: 元Meta IC8（プリンシパルエンジニア）、現Anthropic Member of Technical Staff
+- 関連プロジェクト: Facebook Groups、Instagram、Claude Code、Undux、TypeScript
 
 ---
 
-## 参考リンク
-
-- [元のYouTubeインタビュー](https://www.youtube.com/watch?v=AmdLVWMdjOk)
-- Boris Chney: 元Meta IC8（プリンシパルエンジニア）、現Anthropic Member of Technical Staff
-- 関連プロジェクト: Facebook Groups、Instagram、Claude Code
+**Note:** このアーカイブは、1時間24分のインタビューの主要トピックと洞察を詳細に解説した「読み物」として構成されています。各セクションは独立して読めるよう、背景情報と実践的な教訓を含めています。元のインタビュー全文は上記YouTubeリンクでご覧ください。
