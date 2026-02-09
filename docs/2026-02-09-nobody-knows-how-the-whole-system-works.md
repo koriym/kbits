@@ -1,4 +1,4 @@
-# Nobody knows how the whole system works
+# 誰もシステム全体の仕組みを知らない
 
 **原文:** [Nobody knows how the whole system works](https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/)  
 **著者:** Lorin Hochstein  
@@ -45,10 +45,6 @@ Lorin Hochsteinが、LinkedIn上で交わされた3つの投稿（Simon Wardley�
 ## コメント
 
 この記事が示しているのは、「抽象化」と「理解」のトレードオフが、ソフトウェア工学の本質的なジレンマだということ。
-
-**Be Frameworkの文脈で考えると:**
-
-Be Frameworkが目指す「小さなクラス、明確な責務」という設計思想は、実はこのジレンマへの一つの回答とも言える。15-20行のクラスは人間（とAI）が理解可能な単位。しかし、それらが組み合わさったシステム全体を「理解」することは、やはり困難だ。
 
 **「魔法」の必要性:**
 
