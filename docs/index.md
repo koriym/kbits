@@ -8,6 +8,10 @@
 
 ### February
 
+- [Nobody knows how the whole system works](./2026-02-09-nobody-knows-how-the-whole-system-works.md)  
+  Lorin Hochstein | システム全体を理解する人間は誰もいない — 抽象化と理解のジレンマ、AI時代の必然  
+  *2026-02-09*
+
 - [Boris Chney - Metaプリンシパルエンジニア、Claude Code開発者のキャリア](./2026-02-07-boris-chney-meta-engineer-interview.md)  
   Boris Chney | 潜在的需要、組織横断コラボ、技術リーダーシップ、AI時代の生産性70%向上 — 1時間24分の完全翻訳  
   *2026-02-07*
@@ -98,4 +102,4 @@
 
 ---
 
-*Total: 20 articles*
+*Total: 21 articles*
