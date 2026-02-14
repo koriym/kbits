@@ -8,6 +8,10 @@
 
 ### February
 
+- [OpenClawの誕生とAIエージェント革命 - Peter Steinberger | Lex Fridman Podcast #491](./2026-02-14-peter-steinberger-openclaw-lex-fridman.md)  
+  Peter Steinberger | 1時間プロトタイプからGitHub史上最速18万スター、自己修正ソフトウェア、名前変更の苦難、Meta vs OpenAI  
+  *2026-02-14*
+
 - [Nobody knows how the whole system works](./2026-02-09-nobody-knows-how-the-whole-system-works.md)  
   Lorin Hochstein | システム全体を理解する人間は誰もいない — 抽象化と理解のジレンマ、AI時代の必然  
   *2026-02-09*
@@ -102,4 +106,4 @@
 
 ---
 
-*Total: 21 articles*
+*Total: 22 articles*
