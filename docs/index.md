@@ -8,6 +8,10 @@
 
 ### February
 
+- [AIがあなたを退屈にする](./2026-02-20-ai-makes-you-boring.md)  
+  Viktor Lofgren (Marginalia Search) | AI支援開発が思考を浅くする理由 — 独創性は長期間の没頭から生まれる、プロンプト入力≠アイデアの言語化  
+  *2026-02-20*
+
 - [OpenClawの誕生とAIエージェント革命 - Peter Steinberger | Lex Fridman Podcast #491](./2026-02-14-peter-steinberger-openclaw-lex-fridman.md)  
   Peter Steinberger | 1時間プロトタイプからGitHub史上最速18万スター、自己修正ソフトウェア、名前変更の苦難、Meta vs OpenAI  
   *2026-02-14*
@@ -106,4 +110,4 @@
 
 ---
 
-*Total: 22 articles*
+*Total: 23 articles*
