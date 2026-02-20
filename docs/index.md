@@ -8,6 +8,10 @@
 
 ### February
 
+- [アメリカ vs シンガポール：経済ショックは貯蓄では救えない](./2026-02-20-america-singapore-saving-shocks.md)  
+  governance.fyi | 貯蓄後悔の真因は先延ばし癖ではなく経済ショック — NBER研究が覆す行動経済学の通説、制度設計こそが鍵  
+  *2026-02-20*
+
 - [AIがあなたを退屈にする](./2026-02-20-ai-makes-you-boring.md)  
   Viktor Lofgren (Marginalia Search) | AI支援開発が思考を浅くする理由 — 独創性は長期間の没頭から生まれる、プロンプト入力≠アイデアの言語化  
   *2026-02-20*
@@ -110,4 +114,4 @@
 
 ---
 
-*Total: 23 articles*
+*Total: 24 articles*
