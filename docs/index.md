@@ -8,6 +8,10 @@
 
 ### February
 
+- [なぜIQとEQだけでは不十分なのか。AIの時代はAQを求める](./2026-02-20-aq-agency-quotient.md)  
+  CEO Dinner | Agency Quotient (AQ) — 実現する力こそAI時代の最重要能力、12のスキル、一人ユニコーンは不可避  
+  *2026-02-20*
+
 - [アメリカ vs シンガポール：経済ショックは貯蓄では救えない](./2026-02-20-america-singapore-saving-shocks.md)  
   governance.fyi | 貯蓄後悔の真因は先延ばし癖ではなく経済ショック — NBER研究が覆す行動経済学の通説、制度設計こそが鍵  
   *2026-02-20*
@@ -114,4 +118,4 @@
 
 ---
 
-*Total: 24 articles*
+*Total: 25 articles*
