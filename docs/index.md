@@ -8,6 +8,10 @@
 
 ### February
 
+- [Karpathy：ClawsはAIスタックの新レイヤー — セキュリティと設定パラダイムの変革](./2026-02-23-karpathy-claws-ai-agent-new-layer.md)  
+  Andrej Karpathy | Claws = LLMエージェントの次の抽象化レイヤー、スキルによる設定パラダイム転換、監査可能性がセキュリティの新軸  
+  *2026-02-23*
+
 - [Claude Codeの使い方 ― 私のワークフロー](./2026-02-23-how-i-use-claude-code.md)  
   Boris Tane | 計画駆動型Claude Codeワークフロー — リサーチ→plan.md→アノテーションサイクル→実装の分離が最大の鍵  
   *2026-02-23*
@@ -122,4 +126,4 @@
 
 ---
 
-*Total: 26 articles*
+*Total: 27 articles*
