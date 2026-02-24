@@ -8,6 +8,10 @@
 
 ### February
 
+- [法律AI市場の急拡大：ハーベイの戦略とプロフェッショナルサービスの長期的破壊](./2026-02-24-legal-ai-landscape-harvey-strategy.md)  
+  NextWord | Harvey $50M→$190M ARR（1年）、法律版オゼンピック——短期マージン爆増が長期価格破壊の種になる構造  
+  *2026-02-24*
+
 - [垂直型ソフトウェアの擁護論](./2026-02-24-in-defense-of-vertical-software.md)  
   George Sivulka (Hebbia CEO) | 「ソフトウェアは社会契約」 — プロセスエンジニアリングと機関的知識こそが汎用AIに対する真のモート  
   *2026-02-24*
@@ -138,4 +142,4 @@
 
 ---
 
-*Total: 30 articles*
+*Total: 31 articles*
