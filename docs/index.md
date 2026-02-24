@@ -8,6 +8,10 @@
 
 ### February
 
+- [ソフトウェアは死んだ — ソフトウェアよ、永遠なれ](./2026-02-24-software-is-dead-long-live-software.md)  
+  Euclid Insights | 「SaaSmageddon」の実態分析 — AIもSaaSだという反論、歴史的パラダイム転換は市場を拡大する、真に危険なのは超ニッチ製品と変革を躊躇う既存プレイヤー  
+  *2026-02-24*
+
 - [Karpathy：ClawsはAIスタックの新レイヤー — セキュリティと設定パラダイムの変革](./2026-02-23-karpathy-claws-ai-agent-new-layer.md)  
   Andrej Karpathy | Claws = LLMエージェントの次の抽象化レイヤー、スキルによる設定パラダイム転換、監査可能性がセキュリティの新軸  
   *2026-02-23*
@@ -126,4 +130,4 @@
 
 ---
 
-*Total: 27 articles*
+*Total: 28 articles*
