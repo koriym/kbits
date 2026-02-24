@@ -8,6 +8,10 @@
 
 ### February
 
+- [垂直型ソフトウェアの擁護論](./2026-02-24-in-defense-of-vertical-software.md)  
+  George Sivulka (Hebbia CEO) | 「ソフトウェアは社会契約」 — プロセスエンジニアリングと機関的知識こそが汎用AIに対する真のモート  
+  *2026-02-24*
+
 - [AIの時代に生き残るソフトウェアとは — 耐久性フレームワーク](./2026-02-24-software-shakeout-what-is-durable.md)  
   Dan Hock | スイッチングコスト×複利成長の2軸でソフトウェア企業を分類 — 耐久性高（Stripe等）・移行期間あり（Workday等）・急速流出（Zendesk等）の3セグメント予測  
   *2026-02-24*
@@ -134,4 +138,4 @@
 
 ---
 
-*Total: 29 articles*
+*Total: 30 articles*
