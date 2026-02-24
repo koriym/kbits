@@ -8,6 +8,10 @@
 
 ### February
 
+- [AIの時代に生き残るソフトウェアとは — 耐久性フレームワーク](./2026-02-24-software-shakeout-what-is-durable.md)  
+  Dan Hock | スイッチングコスト×複利成長の2軸でソフトウェア企業を分類 — 耐久性高（Stripe等）・移行期間あり（Workday等）・急速流出（Zendesk等）の3セグメント予測  
+  *2026-02-24*
+
 - [ソフトウェアは死んだ — ソフトウェアよ、永遠なれ](./2026-02-24-software-is-dead-long-live-software.md)  
   Euclid Insights | 「SaaSmageddon」の実態分析 — AIもSaaSだという反論、歴史的パラダイム転換は市場を拡大する、真に危険なのは超ニッチ製品と変革を躊躇う既存プレイヤー  
   *2026-02-24*
@@ -130,4 +134,4 @@
 
 ---
 
-*Total: 28 articles*
+*Total: 29 articles*
