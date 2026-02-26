@@ -8,6 +8,10 @@
 
 ### February
 
+- [AIと法律専門職の未来](./2026-02-26-ai-future-legal-profession.md)  
+  Gelila Bekele | ビラブルアワー崩壊・ALSPの台頭・判断力ギャップ — AI時代に法律業界が問われる「定型処理速度」から「判断の価値」への転換  
+  *2026-02-26*
+
 - [OpenClawセキュリティ強化完全ガイド：3段階実装](./2026-02-26-openclaw-security-hardening-guide.md)  
   Fernando Lucktemberg | 「使うな」という前置きの上でハームリダクションを徹底 — Tier 1（必須）からTier 3（Docker/Squid分離）まで、コピペ可能なコマンドと検証手順を完全網羅  
   *2026-02-26*
@@ -158,4 +162,4 @@
 
 ---
 
-*Total: 35 articles*
+*Total: 36 articles*
