@@ -8,6 +8,10 @@
 
 ### February
 
+- [DVDを買っておくべきだった](./2026-02-26-we-should-have-bought-the-dvds.md)  
+  Veronica Walsingham | 2020年に書かれた近未来フィクション — Netflix$7.99から11サービス$110/月へ「ゆっくりと、そして突然に」、ストリーミング断片化の予言  
+  *2026-02-26*
+
 - [AIと法律専門職の未来](./2026-02-26-ai-future-legal-profession.md)  
   Gelila Bekele | ビラブルアワー崩壊・ALSPの台頭・判断力ギャップ — AI時代に法律業界が問われる「定型処理速度」から「判断の価値」への転換  
   *2026-02-26*
@@ -162,4 +166,4 @@
 
 ---
 
-*Total: 36 articles*
+*Total: 37 articles*
