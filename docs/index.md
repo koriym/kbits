@@ -8,6 +8,10 @@
 
 ### February
 
+- [OpenClawセキュリティ強化完全ガイド：3段階実装](./2026-02-26-openclaw-security-hardening-guide.md)  
+  Fernando Lucktemberg | 「使うな」という前置きの上でハームリダクションを徹底 — Tier 1（必須）からTier 3（Docker/Squid分離）まで、コピペ可能なコマンドと検証手順を完全網羅  
+  *2026-02-26*
+
 - [ナレッジプライミング — AIコーディングアシスタントへの「オンボーディング」](./2026-02-25-knowledge-priming-ai-coding.md)  
   Martin Fowler | AIへの文脈共有を習慣でなくインフラとして扱う — プライミングドキュメント7構成で「インターネットの平均値」から脱却  
   *2026-02-25*
@@ -154,4 +158,4 @@
 
 ---
 
-*Total: 34 articles*
+*Total: 35 articles*
