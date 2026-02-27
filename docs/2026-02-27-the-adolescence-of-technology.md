@@ -3,7 +3,7 @@
 **原題:** The Adolescence of Technology: Confronting and Overcoming the Risks of Powerful AI  
 **著者:** Dario Amodei (CEO, Anthropic)  
 **公開日:** 2026年1月  
-**ソースURL:** https://www.darioamodei.com/essay/the-adolescence-of-technology  
+**ソースURL:** [https://www.darioamodei.com/essay/the-adolescence-of-technology](https://www.darioamodei.com/essay/the-adolescence-of-technology)  
 **アーカイブ日:** 2026-02-27
 
 ---

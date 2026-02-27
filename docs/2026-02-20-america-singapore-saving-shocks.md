@@ -3,7 +3,7 @@
 **原題:** America vs. Singapore: You Can't Save Your Way out of Economic Shocks  
 **著者:** governance.fyi  
 **公開日:** 2026年頃  
-**ソースURL:** https://www.governance.fyi/p/america-vs-singapore-you-cant-save  
+**ソースURL:** [https://www.governance.fyi/p/america-vs-singapore-you-cant-save](https://www.governance.fyi/p/america-vs-singapore-you-cant-save)  
 **アーカイブ日:** 2026-02-20
 
 ---

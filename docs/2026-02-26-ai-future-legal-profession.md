@@ -3,7 +3,7 @@
 **原題:** AI And The Future Of The Legal Profession  
 **著者:** Gelila Bekele  
 **公開日:** 2026年2月19日  
-**ソースURL:** https://www.forbes.com/sites/gelilabekele/2026/02/19/ai-and-the-future-of-the-legal-profession/  
+**ソースURL:** [https://www.forbes.com/sites/gelilabekele/2026/02/19/ai-and-the-future-of-the-legal-profession/](https://www.forbes.com/sites/gelilabekele/2026/02/19/ai-and-the-future-of-the-legal-profession/)  
 **アーカイブ日:** 2026-02-26
 
 ---

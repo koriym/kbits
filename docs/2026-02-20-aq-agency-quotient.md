@@ -2,7 +2,7 @@
 
 **著者:** CEO Dinner (Substack)  
 **公開日:** 2026年頃  
-**ソースURL:** https://ceodinner.substack.com/p/why-iq-and-eq-arent-enough-anymore  
+**ソースURL:** [https://ceodinner.substack.com/p/why-iq-and-eq-arent-enough-anymore](https://ceodinner.substack.com/p/why-iq-and-eq-arent-enough-anymore)  
 **アーカイブ日:** 2026-02-20
 
 ---

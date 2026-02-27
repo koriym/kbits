@@ -3,7 +3,7 @@
 **原題:** (Tweet) "Bought a new Mac mini to properly tinker with claws over the weekend..."  
 **著者:** Andrej Karpathy  
 **公開日:** 2026-02-20  
-**ソースURL:** https://x.com/karpathy/status/2024987174077432126  
+**ソースURL:** [https://x.com/karpathy/status/2024987174077432126](https://x.com/karpathy/status/2024987174077432126)  
 **アーカイブ日:** 2026-02-23
 
 ---

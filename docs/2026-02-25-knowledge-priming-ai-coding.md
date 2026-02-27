@@ -3,7 +3,7 @@
 **原題:** Knowledge Priming  
 **著者:** Martin Fowler  
 **公開日:** 2026年  
-**ソースURL:** https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html  
+**ソースURL:** [https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html](https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html)  
 **アーカイブ日:** 2026-02-25
 
 ---

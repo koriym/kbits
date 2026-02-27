@@ -3,7 +3,7 @@
 **原題:** How to Harden OpenClaw Security: Complete 3-Tier Implementation Guide  
 **著者:** Fernando Lucktemberg（aimaker.substack.com 寄稿）  
 **公開日:** 2026年2月  
-**ソースURL:** https://aimaker.substack.com/p/openclaw-security-hardening-guide  
+**ソースURL:** [https://aimaker.substack.com/p/openclaw-security-hardening-guide](https://aimaker.substack.com/p/openclaw-security-hardening-guide)  
 **アーカイブ日:** 2026-02-26
 
 ---

@@ -3,7 +3,7 @@
 **原題:** The Software Shakeout: What Is Durable and What is Not in the Age of AI?  
 **著者:** Dan Hock  
 **公開日:** 2026年2月  
-**ソースURL:** https://www.danhock.co/p/the-software-shakeout-what-is-durable  
+**ソースURL:** [https://www.danhock.co/p/the-software-shakeout-what-is-durable](https://www.danhock.co/p/the-software-shakeout-what-is-durable)  
 **アーカイブ日:** 2026-02-24
 
 ---

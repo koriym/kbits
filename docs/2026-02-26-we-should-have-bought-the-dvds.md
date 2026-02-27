@@ -3,7 +3,7 @@
 **原題:** We Should Have Bought the DVDs  
 **著者:** Veronica Walsingham  
 **公開日:** 2020年1月20日  
-**ソースURL:** https://www.nytimes.com/2020/01/20/opinion/future-dvds-streaming.html  
+**ソースURL:** [https://www.nytimes.com/2020/01/20/opinion/future-dvds-streaming.html](https://www.nytimes.com/2020/01/20/opinion/future-dvds-streaming.html)  
 **アーカイブ日:** 2026-02-26
 
 ---

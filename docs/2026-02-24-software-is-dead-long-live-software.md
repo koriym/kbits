@@ -3,7 +3,7 @@
 **原題:** Software Is Dead — Long Live Software  
 **著者:** Euclid Insights  
 **公開日:** 2026年2月  
-**ソースURL:** https://insights.euclid.vc/p/software-is-dead-long-live-software  
+**ソースURL:** [https://insights.euclid.vc/p/software-is-dead-long-live-software](https://insights.euclid.vc/p/software-is-dead-long-live-software)  
 **アーカイブ日:** 2026-02-24
 
 ---

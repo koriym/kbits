@@ -3,7 +3,7 @@
 **原題:** Legal AI adoption is soaring (ft. Harvey)  
 **著者:** NextWord  
 **公開日:** 2026年2月  
-**ソースURL:** https://nextword.substack.com/p/legal-ai-landscape-and-harvey-ai-strategy  
+**ソースURL:** [https://nextword.substack.com/p/legal-ai-landscape-and-harvey-ai-strategy](https://nextword.substack.com/p/legal-ai-landscape-and-harvey-ai-strategy)  
 **アーカイブ日:** 2026-02-24
 
 ---

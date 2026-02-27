@@ -3,7 +3,7 @@
 **原題:** The Modern AI PM in the age of Agents  
 **著者:** Shubham Saboo（Google シニアAI プロダクトマネージャー）  
 **公開日:** 2026-01-07  
-**ソースURL:** https://x.com/Saboo_Shubham_/status/2008742211194913117  
+**ソースURL:** [https://x.com/Saboo_Shubham_/status/2008742211194913117](https://x.com/Saboo_Shubham_/status/2008742211194913117)  
 **アーカイブ日:** 2026-02-27
 
 ---

@@ -3,7 +3,7 @@
 **原題:** In Defense of Vertical Software  
 **著者:** George Sivulka (CEO, Hebbia)  
 **公開日:** 2026年2月  
-**ソースURL:** https://www.a16z.news/p/in-defense-of-vertical-software  
+**ソースURL:** [https://www.a16z.news/p/in-defense-of-vertical-software](https://www.a16z.news/p/in-defense-of-vertical-software)  
 **アーカイブ日:** 2026-02-24
 
 ---

@@ -3,7 +3,7 @@
 **原題:** Statement from Dario Amodei on our discussions with the Department of War  
 **著者:** Dario Amodei (Anthropic CEO)  
 **公開日:** 2026年2月  
-**ソースURL:** https://www.anthropic.com/news/statement-department-of-war  
+**ソースURL:** [https://www.anthropic.com/news/statement-department-of-war](https://www.anthropic.com/news/statement-department-of-war)  
 **アーカイブ日:** 2026-02-27
 
 ---

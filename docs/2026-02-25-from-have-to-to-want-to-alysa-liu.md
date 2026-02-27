@@ -3,7 +3,7 @@
 **原題:** From "Have To" to "Want To": How Alysa Liu Won Olympic Gold  
 **著者:** Steve Magness  
 **公開日:** 2026年2月20日  
-**ソースURL:** https://stevemagness.substack.com/p/from-have-to-to-want-to-how-alysa  
+**ソースURL:** [https://stevemagness.substack.com/p/from-have-to-to-want-to-how-alysa](https://stevemagness.substack.com/p/from-have-to-to-want-to-how-alysa)  
 **アーカイブ日:** 2026-02-25
 
 ---

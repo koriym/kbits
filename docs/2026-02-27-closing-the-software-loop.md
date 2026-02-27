@@ -3,7 +3,7 @@
 **原題:** Closing the Software Loop  
 **著者:** Benedict Brady  
 **公開日:** 2026年2月  
-**ソースURL:** https://www.benedict.dev/closing-the-software-loop  
+**ソースURL:** [https://www.benedict.dev/closing-the-software-loop](https://www.benedict.dev/closing-the-software-loop)  
 **アーカイブ日:** 2026-02-27
 
 ---

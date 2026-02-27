@@ -3,7 +3,7 @@
 **原題:** SaaS Isn't Dead. But the Way You Used to Win in B2B? That's Gone.  
 **著者:** Jason Lemkin (SaaStr)  
 **公開日:** 2026年2月  
-**ソースURL:** https://www.saastr.com/saas-isnt-dead-but-the-way-you-used-to-win-in-b2b-thats-gone/  
+**ソースURL:** [https://www.saastr.com/saas-isnt-dead-but-the-way-you-used-to-win-in-b2b-thats-gone/](https://www.saastr.com/saas-isnt-dead-but-the-way-you-used-to-win-in-b2b-thats-gone/)  
 **アーカイブ日:** 2026-02-25
 
 ---
