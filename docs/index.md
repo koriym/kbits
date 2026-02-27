@@ -2,6 +2,8 @@
 
 個人的に価値を感じた記事のアーカイブ。
 
+[📌 記事を推薦する](https://github.com/koriym/kbits/issues/new?template=recommend-url.yml)
+
 ---
 
 ## 2026
