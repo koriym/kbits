@@ -8,6 +8,10 @@
 
 ### February
 
+- [エージェント時代のモダンAI PM](./2026-02-27-modern-ai-pm-age-of-agents.md)  
+  Shubham Saboo (Google) | 「翻訳レイヤーの消滅」 — スペックがプロダクトになる時代、PMに残るのは問題整形・コンテキストキュレーション・テイストの3スキルのみ  
+  *2026-02-27*
+
 - [DVDを買っておくべきだった](./2026-02-26-we-should-have-bought-the-dvds.md)  
   Veronica Walsingham | 2020年に書かれた近未来フィクション — Netflix$7.99から11サービス$110/月へ「ゆっくりと、そして突然に」、ストリーミング断片化の予言  
   *2026-02-26*
@@ -166,4 +170,4 @@
 
 ---
 
-*Total: 37 articles*
+*Total: 38 articles*
