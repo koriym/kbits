@@ -10,6 +10,10 @@
 
 ### February
 
+- [テクノロジーの思春期 — 強力なAIのリスクに向き合い、克服する](./2026-02-27-the-adolescence-of-technology.md)  
+  Dario Amodei (Anthropic CEO) | 「天才国家がデータセンターに出現したら？」— 自律性リスク・破壊的悪用・権力掌握・経済混乱の4類型を分析し、Constitutional AI・解釈可能性・透明性立法で乗り越える道筋を描く  
+  *2026-02-27*
+
 - [Anthropic、国防総省の「セーフガード撤廃要求」を拒否する声明](./2026-02-27-anthropic-dod-safeguards-refusal.md)  
   Dario Amodei (Anthropic) | 大規模国内監視と完全自律型兵器の2ラインを民主主義的価値・技術的信頼性を根拠に拒否 — 「サプライチェーンリスク」指定の脅しにも立場を変えず  
   *2026-02-27*
@@ -180,4 +184,4 @@
 
 ---
 
-*Total: 40 articles*
+*Total: 41 articles*
