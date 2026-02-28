@@ -10,6 +10,10 @@
 
 ### March
 
+- [AIソフトウェア開発の第三の時代](./2026-03-01-cursor-third-era-ai-development.md)  
+  Michael Truell (Cursor CEO) | Tab補完→同期エージェント→クラウドエージェントの3時代整理 — Cursor社内PRの35%がクラウドVMで自律動作するエージェントが作成、1年でエージェント使用量15倍増  
+  *2026-03-01*
+
 - [フィールディングのREST論文が誤用されるまで](./2026-03-01-rest-fielding-misappropriated.md)  
   TwoBitHistory | HTTP共同著者Fieldingの論文はAPIのためでなくHTTP自体のために書かれた——「SOAP嫌いの開発者がFIOHにREST名を流用した」という歴史的再読  
   *2026-03-01*
@@ -198,4 +202,4 @@
 
 ---
 
-*Total: 44 articles*
+*Total: 45 articles*
