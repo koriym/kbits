@@ -10,6 +10,10 @@
 
 ### February
 
+- [大きな変化が起きている](./2026-02-28-something-big-is-happening.md)  
+  Matt Shumer（AIスタートアップ創業者） | AI内部者が非専門家の家族・友人へ送る警告 — 月曜日の仕事がすでに「4時間席を外したら完成品が待っていた」に変わった現実と、METRデータが示す能力倍増の軌跡  
+  *2026-02-28*
+
 - [クロードネイティブな法律事務所](./2026-02-28-claude-native-law-firm.md)  
   Zack Shapiro (Rains LLP / ex-Davis Polk) | 2人事務所がClaude一本で大規模事務所と競合する実務ワークフロー全公開 — Chat/Cowork/Codeの3モード、Skillsで個人の判断を自動化、WW最終交渉をAIで切り抜けた実例  
   *2026-02-28*
@@ -188,4 +192,4 @@
 
 ---
 
-*Total: 42 articles*
+*Total: 43 articles*
