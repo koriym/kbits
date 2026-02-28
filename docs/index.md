@@ -8,6 +8,12 @@
 
 ## 2026
 
+### March
+
+- [フィールディングのREST論文が誤用されるまで](./2026-03-01-rest-fielding-misappropriated.md)  
+  TwoBitHistory | HTTP共同著者Fieldingの論文はAPIのためでなくHTTP自体のために書かれた——「SOAP嫌いの開発者がFIOHにREST名を流用した」という歴史的再読  
+  *2026-03-01*
+
 ### February
 
 - [大きな変化が起きている](./2026-02-28-something-big-is-happening.md)  
@@ -192,4 +198,4 @@
 
 ---
 
-*Total: 43 articles*
+*Total: 44 articles*
