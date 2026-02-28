@@ -10,6 +10,10 @@
 
 ### February
 
+- [クロードネイティブな法律事務所](./2026-02-28-claude-native-law-firm.md)  
+  Zack Shapiro (Rains LLP / ex-Davis Polk) | 2人事務所がClaude一本で大規模事務所と競合する実務ワークフロー全公開 — Chat/Cowork/Codeの3モード、Skillsで個人の判断を自動化、WW最終交渉をAIで切り抜けた実例  
+  *2026-02-28*
+
 - [テクノロジーの思春期 — 強力なAIのリスクに向き合い、克服する](./2026-02-27-the-adolescence-of-technology.md)  
   Dario Amodei (Anthropic CEO) | 「天才国家がデータセンターに出現したら？」— 自律性リスク・破壊的悪用・権力掌握・経済混乱の4類型を分析し、Constitutional AI・解釈可能性・透明性立法で乗り越える道筋を描く  
   *2026-02-27*
@@ -184,4 +188,4 @@
 
 ---
 
-*Total: 41 articles*
+*Total: 42 articles*
