@@ -10,6 +10,10 @@
 
 ### March
 
+- [全部茶番だった — OpenAIとAnthropicのペンタゴン契約をめぐる内幕](./2026-03-01-the-whole-thing-was-scam.md)  
+  Gary Marcus | Altmanが「Dario支持」を公言しながら秘密裏にペンタゴン契約を進めていた構造 — 「資本主義では市場が決める、オリガーキーではコネと献金が決める」  
+  *2026-03-01*
+
 - [AIソフトウェア開発の第三の時代](./2026-03-01-cursor-third-era-ai-development.md)  
   Michael Truell (Cursor CEO) | Tab補完→同期エージェント→クラウドエージェントの3時代整理 — Cursor社内PRの35%がクラウドVMで自律動作するエージェントが作成、1年でエージェント使用量15倍増  
   *2026-03-01*
@@ -202,4 +206,4 @@
 
 ---
 
-*Total: 45 articles*
+*Total: 46 articles*
