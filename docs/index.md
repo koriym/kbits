@@ -10,6 +10,10 @@
 
 ### March
 
+- [コードは安くなった。ソフトウェアはそうじゃない。](./2026-03-03-code-is-cheap-now-software-isnt.md)  
+  Chris Gregori | LLMがコード生成コストを下げても、アーキテクチャ・メンテナンス・問題理解のコストは不変——「SaaSからスクラッチパッド」時代のエンジニア価値論  
+  *2026-03-03*
+
 - [全部茶番だった — OpenAIとAnthropicのペンタゴン契約をめぐる内幕](./2026-03-01-the-whole-thing-was-scam.md)  
   Gary Marcus | Altmanが「Dario支持」を公言しながら秘密裏にペンタゴン契約を進めていた構造 — 「資本主義では市場が決める、オリガーキーではコネと献金が決める」  
   *2026-03-01*
@@ -206,4 +210,4 @@
 
 ---
 
-*Total: 46 articles*
+*Total: 47 articles*
