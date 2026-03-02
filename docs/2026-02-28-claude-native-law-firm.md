@@ -3,7 +3,7 @@
 **原題:** The Claude-Native Law Firm  
 **著者:** Zack Shapiro（Managing Partner, Rains LLP / ex-Davis Polk / Yale Law School）  
 **公開日:** 2026年2月27日  
-**ソースURL:** https://x.com/zackbshapiro/status/2027389987444957625  
+**ソースURL:** [https://x.com/zackbshapiro/status/2027389987444957625](https://x.com/zackbshapiro/status/2027389987444957625)  
 **アーカイブ日:** 2026-02-28
 
 ---

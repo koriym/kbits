@@ -3,7 +3,7 @@
 **原題:** Something Big Is Happening  
 **著者:** Matt Shumer（AIスタートアップ創業者、@mattshumer_）  
 **公開日:** 2026年2月  
-**ソースURL:** https://shumer.dev/something-big-is-happening  
+**ソースURL:** [https://shumer.dev/something-big-is-happening](https://shumer.dev/something-big-is-happening)  
 **アーカイブ日:** 2026-02-28
 
 ---

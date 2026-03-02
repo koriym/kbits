@@ -3,7 +3,7 @@
 **原題:** Roy Fielding's Misappropriated REST Dissertation  
 **著者:** TwoBitHistory  
 **公開日:** 2020年6月28日  
-**ソースURL:** https://twobithistory.org/2020/06/28/rest.html  
+**ソースURL:** [https://twobithistory.org/2020/06/28/rest.html](https://twobithistory.org/2020/06/28/rest.html)  
 **アーカイブ日:** 2026-03-01
 
 ---

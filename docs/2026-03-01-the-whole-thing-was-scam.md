@@ -3,7 +3,7 @@
 **原題:** The whole thing was a scam  
 **著者:** Gary Marcus  
 **公開日:** 2026年2月  
-**ソースURL:** https://garymarcus.substack.com/p/the-whole-thing-was-scam  
+**ソースURL:** [https://garymarcus.substack.com/p/the-whole-thing-was-scam](https://garymarcus.substack.com/p/the-whole-thing-was-scam)  
 **アーカイブ日:** 2026-03-01
 
 ---

@@ -3,7 +3,7 @@
 **原題:** The third era of AI software development  
 **著者:** Michael Truell (Cursor CEO)  
 **公開日:** 2026年2月  
-**ソースURL:** https://cursor.com/blog/third-era  
+**ソースURL:** [https://cursor.com/blog/third-era](https://cursor.com/blog/third-era)  
 **アーカイブ日:** 2026-03-01
 
 ---

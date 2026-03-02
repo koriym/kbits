@@ -3,7 +3,7 @@
 **原題:** Code Is Cheap Now. Software Isn't.  
 **著者:** Chris Gregori  
 **公開日:** 2026年  
-**ソースURL:** https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt  
+**ソースURL:** [https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt)  
 **アーカイブ日:** 2026-03-03
 
 ---
