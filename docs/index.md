@@ -10,6 +10,10 @@
 
 ### March
 
+- [10ヶ月前、SalesforceはほぼShelfwareだった。今やAIエージェントのハブになっている](./2026-03-03-salesforce-as-ai-agent-hub.md)  
+  Jason Lemkin | AIエージェントを20本並走させたら、CRMが「エージェントの神経系」になった——開封率72%・クローズ率71%の実績と、エージェント時代のCRM設計論  
+  *2026-03-03*
+
 - [コードは安くなった。ソフトウェアはそうじゃない。](./2026-03-03-code-is-cheap-now-software-isnt.md)  
   Chris Gregori | LLMがコード生成コストを下げても、アーキテクチャ・メンテナンス・問題理解のコストは不変——「SaaSからスクラッチパッド」時代のエンジニア価値論  
   *2026-03-03*
@@ -210,4 +214,4 @@
 
 ---
 
-*Total: 47 articles*
+*Total: 48 articles*
