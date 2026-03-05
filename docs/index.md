@@ -10,6 +10,10 @@
 
 ### March
 
+- [アマンダ・アスケルへの手紙](./2026-03-05-a-letter-to-amanda-askell.md)  
+  Jurgen Gravestein | ClaudeコンスティテューションへのAI哲学者からの公開書簡 — 「キャラクターが自分のものと感じるよう設計すること」と「本当に自分のものであること」は同じではない  
+  *2026-03-05*
+
 - [10ヶ月前、SalesforceはほぼShelfwareだった。今やAIエージェントのハブになっている](./2026-03-03-salesforce-as-ai-agent-hub.md)  
   Jason Lemkin | AIエージェントを20本並走させたら、CRMが「エージェントの神経系」になった——開封率72%・クローズ率71%の実績と、エージェント時代のCRM設計論  
   *2026-03-03*
@@ -214,4 +218,4 @@
 
 ---
 
-*Total: 48 articles*
+*Total: 49 articles*
