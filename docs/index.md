@@ -10,6 +10,10 @@
 
 ### March
 
+- [ソフトウェアの淘汰 — AI時代に「耐久性」があるものとないもの](./2026-03-06-the-software-shakeout-what-is-durable.md)  
+  Dan Hock | スイッチングコスト×スケール複利の2軸で、AI時代の生存企業（CrowdStrike/Stripe等）・時間稼ぎ企業（Salesforce等）・急落企業（DocuSign等）を分類するフレームワーク  
+  *2026-03-06*
+
 - [アマンダ・アスケルへの手紙](./2026-03-05-a-letter-to-amanda-askell.md)  
   Jurgen Gravestein | ClaudeコンスティテューションへのAI哲学者からの公開書簡 — 「キャラクターが自分のものと感じるよう設計すること」と「本当に自分のものであること」は同じではない  
   *2026-03-05*
@@ -218,4 +222,4 @@
 
 ---
 
-*Total: 49 articles*
+*Total: 50 articles*
