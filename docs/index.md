@@ -10,6 +10,10 @@
 
 ### March
 
+- [混乱を整理する技術 — 情報アーキテクチャ入門](./2026-03-07-how-to-make-sense-of-any-mess.md)  
+  Abby Covert | Why→What→How の思考順序と分類・測定・調整の実践フレームワーク——デザイナーから経営者まで使える情報アーキテクチャの無料入門書  
+  *2026-03-07*
+
 - [ソフトウェアの淘汰 — AI時代に「耐久性」があるものとないもの](./2026-03-06-the-software-shakeout-what-is-durable.md)  
   Dan Hock | スイッチングコスト×スケール複利の2軸で、AI時代の生存企業（CrowdStrike/Stripe等）・時間稼ぎ企業（Salesforce等）・急落企業（DocuSign等）を分類するフレームワーク  
   *2026-03-06*
@@ -222,4 +226,4 @@
 
 ---
 
-*Total: 50 articles*
+*Total: 51 articles*
