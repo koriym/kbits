@@ -10,6 +10,10 @@
 
 ### March
 
+- [未成年向けAIチャットボット禁止法案、ニューヨーク州上院委員会を通過](./2026-03-11-ai-chatbot-ban-minors-ny-senate.md)  
+  Kristen Gonzalez | 未成年保護・専門職なりすまし禁止を含むAI規制11法案がNY州上院委員会を通過  
+  *2026-03-11*
+
 - [ソフトウェアのNDR低下——ダモクレスの剣](./2026-03-10-software-ndr-decline-2026.md)  
   Tom Tunguz | 25社374件のNDRデータが示す2026年の急落——代替容易な単純プロダクトから先に血が流れる  
   *2026-03-10*
@@ -230,4 +234,4 @@
 
 ---
 
-*Total: 52 articles*
+*Total: 53 articles*
