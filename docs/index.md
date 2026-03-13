@@ -10,6 +10,10 @@
 
 ### March
 
+- [Think Differentキャンペーン誕生の瞬間 — スティーブ・ジョブズ1997年社内スピーチ](./2026-03-13-apple-think-different-internal-1997.md)  
+  Steve Jobs, Lee Clow | 「マーケティングとは価値観のことだ」——復帰直後のジョブズがApple社員に語ったブランド哲学の原点  
+  *2026-03-13*
+
 - [未成年向けAIチャットボット禁止法案、ニューヨーク州上院委員会を通過](./2026-03-11-ai-chatbot-ban-minors-ny-senate.md)  
   Kristen Gonzalez | 未成年保護・専門職なりすまし禁止を含むAI規制11法案がNY州上院委員会を通過  
   *2026-03-11*
@@ -234,4 +238,4 @@
 
 ---
 
-*Total: 53 articles*
+*Total: 54 articles*
