@@ -10,6 +10,10 @@
 
 ### March
 
+- [XMLは安価なDSLである](./2026-03-15-xml-cheap-dsl.md)  
+  unplannedobsolescence.com | IRS Tax Withholding Estimator開発の実践から「XMLが宣言的DSLとして最も安価な選択肢」である理由を論証——パーサーと普遍的エコシステムが無料でついてくる  
+  *2026-03-15*
+
 - [Think Differentキャンペーン誕生の瞬間 — スティーブ・ジョブズ1997年社内スピーチ](./2026-03-13-apple-think-different-internal-1997.md)  
   Steve Jobs, Lee Clow | 「マーケティングとは価値観のことだ」——復帰直後のジョブズがApple社員に語ったブランド哲学の原点  
   *2026-03-13*
@@ -238,4 +242,4 @@
 
 ---
 
-*Total: 54 articles*
+*Total: 55 articles*
