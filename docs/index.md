@@ -10,6 +10,10 @@
 
 ### March
 
+- [Rob Pikeのプログラミング5ルール](./2026-03-19-rob-pike-5-rules.md)  
+  Rob Pike | 計測なき最適化・凝ったアルゴリズム・データ構造軽視——三つの罪を戒めるGo言語作者の30年不変の原則  
+  *2026-03-19*
+
 - [XMLは安価なDSLである](./2026-03-15-xml-cheap-dsl.md)  
   unplannedobsolescence.com | IRS Tax Withholding Estimator開発の実践から「XMLが宣言的DSLとして最も安価な選択肢」である理由を論証——パーサーと普遍的エコシステムが無料でついてくる  
   *2026-03-15*
@@ -242,4 +246,4 @@
 
 ---
 
-*Total: 55 articles*
+*Total: 56 articles*
