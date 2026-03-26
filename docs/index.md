@@ -10,6 +10,10 @@
 
 ### March
 
+- [Buzzwordによる設計](./2026-03-26-design-by-buzzword.md)  
+  Akihito Koriyama | OOP・MVC・DDD・Agile・CQRS・マイクロサービス・DevOps——半世紀繰り返された「創始者の問いが消え、名前だけが流通する」パターンの解剖  
+  *2026-03-26*
+
 - [Rob Pikeのプログラミング5ルール](./2026-03-19-rob-pike-5-rules.md)  
   Rob Pike | 計測なき最適化・凝ったアルゴリズム・データ構造軽視——三つの罪を戒めるGo言語作者の30年不変の原則  
   *2026-03-19*
@@ -246,4 +250,4 @@
 
 ---
 
-*Total: 56 articles*
+*Total: 57 articles*
