@@ -10,6 +10,10 @@
 
 ### April
 
+- [偉大な仕事をする方法](./2026-04-11-how-to-do-great-work.md)  
+  Paul Graham | 適性×興味×フロンティアの交点を探し, 問いを育て, 小さく始めて複利で育てるという分野横断の仕事論  
+  *2026-04-11*
+
 - [サービスが新しいソフトウェア](./2026-04-11-services-the-new-software.md)  
   Julien Bek | AI時代はツール販売より成果販売へ, 外注済みの知的労働を楔にCopilotからAutopilotへ移行するという事業戦略論  
   *2026-04-11*
@@ -260,4 +264,4 @@
 
 ---
 
-*Total: 59 articles*
+*Total: 60 articles*
