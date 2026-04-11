@@ -10,6 +10,10 @@
 
 ### April
 
+- [サービスが新しいソフトウェア](./2026-04-11-services-the-new-software.md)  
+  Julien Bek | AI時代はツール販売より成果販売へ, 外注済みの知的労働を楔にCopilotからAutopilotへ移行するという事業戦略論  
+  *2026-04-11*
+
 - [MetaのAI分析エージェント——週末のプロトタイプが全社ツールになるまで](./2026-04-03-inside-meta-analytics-agent.md)  
   Analytics at Meta | クエリの88%が過去90日テーブルに依存するという発見が生んだ制約ドメイン戦略と、Cookbooks/Recipes/Ingredientsによる知識階層の設計  
   *2026-04-03*
@@ -256,4 +260,4 @@
 
 ---
 
-*Total: 58 articles*
+*Total: 59 articles*
