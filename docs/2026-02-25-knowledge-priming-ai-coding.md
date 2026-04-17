@@ -95,5 +95,3 @@ Transformerモデルはアテンション機構が有限の「予算」で動作
 ドキュメントを1〜3ページに絞るという「情報の削ぎ落とし」の主張も重要で、包括的に書こうとすると却って効果が薄れるという逆説は意識しておく価値がある。
 
 ---
-
-**タグ:** #ai #developer-experience #llm #documentation #engineering-practices

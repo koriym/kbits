@@ -50,5 +50,3 @@ Rob Pike（Unixの共同開発者、Go言語の設計者）が提唱したプロ
 ルール3も時代を超えた鋭さがある。「nはたいてい小さい」——この一文は、現場でO(n²)を恐れて不必要に複雑な実装をしてしまうあらゆるケースに対する解毒剤だ。プロファイリングせずに最適化するエンジニアは今もいる。
 
 ---
-
-**タグ:** #programming #optimization #data-structures #software-design #rob-pike

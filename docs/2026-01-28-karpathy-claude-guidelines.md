@@ -163,6 +163,4 @@ curl https://raw.githubusercontent.com/forrestchang/andrej-karpthy-skills/main/C
 
 ---
 
-**タグ:** #Claude #コーディングガイドライン #LLM #ベストプラクティス #開発効率
-
 **関連トピック:** #Karpathy #AIエージェント #プロンプトエンジニアリング #テスト駆動

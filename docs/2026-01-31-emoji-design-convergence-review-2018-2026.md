@@ -137,8 +137,6 @@ Jessica ChastainやJameela Jamilの失敗は笑い話だが、絵文字が意図
 
 ---
 
-**タグ:** #絵文字 #デザイン収斂 #UI/UX #文化的表現 #標準化 #プラットフォーム政治 #デジタルコミュニケーション #Apple #Samsung #Unicode
-
 ## リンク
 
 - [Emojipedia](https://emojipedia.org/)
@@ -146,7 +144,5 @@ Jessica ChastainやJameela Jamilの失敗は笑い話だが、絵文字が意図
 - [2018年の予測記事](https://blog.emojipedia.org/2018-the-year-of-emoji-convergence/)
 
 ---
-
-**タグ:** #絵文字 #デザイン収斂 #UI #UX #文化的表現 #標準化 #プラットフォーム政治
 
 **関連トピック:** #デジタルコミュニケーション #Apple #Samsung #Unicode

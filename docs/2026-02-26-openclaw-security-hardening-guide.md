@@ -117,5 +117,3 @@ cd openclaw-hardened-ansible
 AIエージェントのセキュリティ強化事例として、LiteLLMをプロキシに使ってAPIキーを分離するパターンは参考になる。OpenClawに限らず、APIキーを直接保持させたくないエージェント設計全般に応用できる考え方だ。
 
 ---
-
-**タグ:** #security #ai-agent #openclaw #devops #linux #docker

@@ -111,6 +111,4 @@ FAAには専用設計ソフト「FAARFIELD」（FAA Rigid and Flexible Iterative
 
 ---
 
-**タグ:** #土木工学 #航空工学 #インフラ #安全設計 #教育コンテンツ
-
 **関連トピック:** #空港設計 #工学教育 #YouTube教育
