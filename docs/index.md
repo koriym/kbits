@@ -10,6 +10,10 @@
 
 ### April
 
+- [Laravelは資金調達し、いまやあなたのエージェントに広告を直接注入している](./2026-04-21-laravel-raised-money-and-now-injects-ads-directly-into-your-agent.md)  
+  Gareth Dwyer | OSSの商用化そのものではなく、エージェント向け補助レイヤーに宣伝文を埋め込むことが推薦の中立性をどう壊すかを問う  
+  *2026-04-21*
+
 - [747とコーディングエージェント](./2026-04-17-engineering-747-coding-agents.md)  
   Carl Kolon | コーディングエージェントが生産性を高める一方で、実装を通じた技能形成をどう痩せさせるかを、747操縦士の比喩で捉え直す  
   *2026-04-17*
@@ -272,4 +276,4 @@
 
 ---
 
-*Total: 62 articles*
+*Total: 63 articles*
