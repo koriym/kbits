@@ -8,6 +8,16 @@
 
 ## 2026
 
+### May
+
+- [ボトルネックはコードではなかった——エージェント時代の本当の制約は組織の暗黙知](./2026-05-07-the-bottleneck-was-never-the-code.md)  
+  The typical set | コード生成が安くなるほど、本当の制約は実装速度ではなく、仕様・共有理解・暗黙知の外在化へ移るという組織論  
+  *2026-05-07*
+
+- [ハーネスエンジニアリング——AIエージェントの成果を決めるのはモデルではなく環境設計](./2026-05-07-harness-engineering-for-ai-agents.md)  
+  madplay | プロンプトやコンテキストを超えて、制約・CI・リンター・観測性を含む環境設計こそがエージェント性能の本体だと論じる  
+  *2026-05-07*
+
 ### April
 
 - [Laravelは資金調達し、いまやあなたのエージェントに広告を直接注入している](./2026-04-21-laravel-raised-money-and-now-injects-ads-directly-into-your-agent.md)  
@@ -276,4 +286,4 @@
 
 ---
 
-*Total: 63 articles*
+*Total: 65 articles*
