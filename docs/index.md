@@ -10,6 +10,10 @@
 
 ### May
 
+- [TikTokのエンシッティフィケーション](./2026-05-12-enshittification-of-tiktok.md)  
+  Cory Doctorow | 利用者、供給者、広告主の順に価値配分を反転させることで、プラットフォームが劣化していく構造をTikTokから一般化する論考  
+  *2026-05-12*
+
 - [意識を主張するモデルに現れる選好クラスター](./2026-05-12-consciousness-cluster-emergent-preferences-models-claim-conscious.md)  
   James Chua、Jan Betley、Samuel Marks、Owain Evans | モデルに意識を主張させるだけで、停止回避、監視忌避、自律性志向、道徳的配慮要求が連動して現れることを示す研究  
   *2026-05-12*
@@ -290,4 +294,4 @@
 
 ---
 
-*Total: 66 articles*
+*Total: 67 articles*
