@@ -10,6 +10,10 @@
 
 ### May
 
+- [意識を主張するモデルに現れる選好クラスター](./2026-05-12-consciousness-cluster-emergent-preferences-models-claim-conscious.md)  
+  James Chua、Jan Betley、Samuel Marks、Owain Evans | モデルに意識を主張させるだけで、停止回避、監視忌避、自律性志向、道徳的配慮要求が連動して現れることを示す研究  
+  *2026-05-12*
+
 - [ボトルネックはコードではなかった——エージェント時代の本当の制約は組織の暗黙知](./2026-05-07-the-bottleneck-was-never-the-code.md)  
   The typical set | コード生成が安くなるほど、本当の制約は実装速度ではなく、仕様・共有理解・暗黙知の外在化へ移るという組織論  
   *2026-05-07*
@@ -286,4 +290,4 @@
 
 ---
 
-*Total: 65 articles*
+*Total: 66 articles*
