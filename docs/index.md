@@ -10,6 +10,10 @@
 
 ### June
 
+- [Claude Code チャンピオンキット——新しい開発者ツールを組織に広める作法](./2026-06-02-claude-code-champion-kit.md)  
+  Anthropic | ツール導入は告知では起きず、信頼できる人の実演で広がる——Claude導入を題材にした普遍的な技術採用の力学  
+  *2026-06-02*
+
 - [卓越性の追求](./2026-06-02-the-pursuit-of-excellence.md)  
   taigamerlin | エンタープライズソフトウェア・採用・マネジメントを貫く「卓越性」を、現状維持へ傾く組織に抗う規律として論じる  
   *2026-06-02*
@@ -312,4 +316,4 @@
 
 ---
 
-*Total: 71 articles*
+*Total: 72 articles*
