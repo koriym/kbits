@@ -8,6 +8,16 @@
 
 ## 2026
 
+### June
+
+- [卓越性の追求](./2026-06-02-the-pursuit-of-excellence.md)  
+  taigamerlin | エンタープライズソフトウェア・採用・マネジメントを貫く「卓越性」を、現状維持へ傾く組織に抗う規律として論じる  
+  *2026-06-02*
+
+- [自然言語オートエンコーダ：Claudeの思考をテキストに変える](./2026-06-02-natural-language-autoencoders.md)  
+  Anthropic Interpretability Team | モデル内部の活性化を自然言語へ変換し、発話に出ない評価認識や隠れた動機を監査するNLA手法の解説  
+  *2026-06-02*
+
 ### May
 
 - [プログラミングの終焉、ただしいま私たちが知るかたちの](./2026-05-13-the-end-of-programming-as-we-know-it.md)  
@@ -302,4 +312,4 @@
 
 ---
 
-*Total: 69 articles*
+*Total: 71 articles*
