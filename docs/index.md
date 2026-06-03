@@ -10,6 +10,9 @@
 
 ### June
 
+- [NES / ファミコンのアーキテクチャ](./2026-06-04-nes-famicom-architecture.md)  
+  Rodrigo Copetti | 中心はCPUではない——6502を取り巻くPPU/APUとカートリッジ側マッパーがNESの個性を作った構図を、コストと歴史的文脈から解剖する  
+  *2026-06-04*
 - [PCエンジンのCPU](./2026-06-03-pc-engine-cpu.md)  
   jsgroth | TurboGrafx-“16”なのに中身は8ビット——速いが命令セットは質素なHuC6280の設計トレードオフを、エミュレータ実装者の視点で解剖する  
   *2026-06-03*
@@ -324,4 +327,4 @@
 
 ---
 
-*Total: 74 articles*
+*Total: 75 articles*
