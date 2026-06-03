@@ -10,6 +10,10 @@
 
 ### June
 
+- [PCエンジンのCPU](./2026-06-03-pc-engine-cpu.md)  
+  jsgroth | TurboGrafx-“16”なのに中身は8ビット——速いが命令セットは質素なHuC6280の設計トレードオフを、エミュレータ実装者の視点で解剖する  
+  *2026-06-03*
+
 - [RSSは復活した。AIエージェントがそれを読んでいる。](./2026-06-03-rss-is-back-ai-agents-are-reading-it.md)  
   Julien Reszka | 人間は可変報酬を、エージェントは決定論を求める——AIエージェント時代にプル型でオープンなRSSが再浮上する構造を論じる  
   *2026-06-03*
@@ -320,4 +324,4 @@
 
 ---
 
-*Total: 73 articles*
+*Total: 74 articles*
