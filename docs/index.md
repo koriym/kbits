@@ -10,6 +10,10 @@
 
 ### June
 
+- [Let's Encryptのポスト量子時代：Merkle Tree Certificatesへの道筋](./2026-06-04-lets-encrypt-post-quantum-future.md)  
+  Andrew Gabbitas | Web PKIの耐量子化に向けLet's EncryptがMerkle Tree Certificates（MTCs）に賭ける理由——ML-DSAのサイズ問題を回避し、透明性を組み込む新設計と2026〜2027年のロードマップ  
+  *2026-06-04*
+
 - [NES / ファミコンのアーキテクチャ](./2026-06-04-nes-famicom-architecture.md)  
   Rodrigo Copetti | 中心はCPUではない——6502を取り巻くPPU/APUとカートリッジ側マッパーがNESの個性を作った構図を、コストと歴史的文脈から解剖する  
   *2026-06-04*
@@ -327,4 +331,4 @@
 
 ---
 
-*Total: 75 articles*
+*Total: 76 articles*
