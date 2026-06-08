@@ -10,6 +10,10 @@
 
 ### June
 
+- [「DevOpsは壊れたのか」— DevOpsDaysデンマーク中止とコミュニティの変容](./2026-06-08-devops-is-broken.md)  
+  Lars Kruse | DevOpsDaysデンマーク中止の背景と、555名のアンケートが示すDevOpsからPlatform Engineeringへの変容、そしてコミュニティ運営の新たな方向性  
+  *2026-06-08*
+
 - [Let's Encryptのポスト量子時代：Merkle Tree Certificatesへの道筋](./2026-06-04-lets-encrypt-post-quantum-future.md)  
   Andrew Gabbitas | Web PKIの耐量子化に向けLet's EncryptがMerkle Tree Certificates（MTCs）に賭ける理由——ML-DSAのサイズ問題を回避し、透明性を組み込む新設計と2026〜2027年のロードマップ  
   *2026-06-04*
@@ -331,4 +335,4 @@
 
 ---
 
-*Total: 76 articles*
+*Total: 77 articles*
