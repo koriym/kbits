@@ -10,6 +10,10 @@
 
 ### June
 
+- [ソフトウェア2.0](./2026-06-11-software-2-0.md)  
+  Andrej Karpathy | ニューラルネットワークは「機械学習の道具」ではなく新しいプログラミングパラダイムである——Karpathyが2017年に提示したSoftware 2.0概念の原典  
+  *2026-06-11*
+
 - [「DevOpsは壊れたのか」— DevOpsDaysデンマーク中止とコミュニティの変容](./2026-06-08-devops-is-broken.md)  
   Lars Kruse | DevOpsDaysデンマーク中止の背景と、555名のアンケートが示すDevOpsからPlatform Engineeringへの変容、そしてコミュニティ運営の新たな方向性  
   *2026-06-08*
@@ -335,4 +339,4 @@
 
 ---
 
-*Total: 77 articles*
+*Total: 78 articles*
