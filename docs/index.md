@@ -10,6 +10,10 @@
 
 ### June
 
+- [システム設計におけるエンドツーエンド引数](./2026-06-11-end-to-end-arguments-system-design.md)  
+  J.H. Saltzer, D.P. Reed, D.D. Clark | 機能は通信の末端で実装すべき——TCP/IPからマイクロサービスまでインターネット設計の根幹を貫くエンドツーエンド原則を確立した1984年の古典  
+  *2026-06-11*
+
 - [信頼の信頼について](./2026-06-11-reflections-on-trusting-trust.md)  
   Ken Thompson | コンパイラに自己増殖型バックドアを仕込む手法——ソースコード検証では決して検出できない攻撃の構造を、1984年のTuring Award講演で明晰に示したコンピュータセキュリティの古典  
   *2026-06-11*
@@ -351,4 +355,4 @@
 
 ---
 
-*Total: 81 articles*
+*Total: 82 articles*
