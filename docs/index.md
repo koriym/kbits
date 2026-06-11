@@ -10,6 +10,10 @@
 
 ### June
 
+- [AIが自らを構築するとき](./2026-06-11-when-ai-builds-itself.md)  
+  Marina Favaro、Jack Clark（Anthropic Institute） | Anthropic内部データから見たAIによるAI開発の加速——コード生産性8倍、研究実験52倍高速化、そして再帰的自己改良が迫る3つの未来シナリオ  
+  *2026-06-11*
+
 - [ソフトウェア2.0](./2026-06-11-software-2-0.md)  
   Andrej Karpathy | ニューラルネットワークは「機械学習の道具」ではなく新しいプログラミングパラダイムである——Karpathyが2017年に提示したSoftware 2.0概念の原典  
   *2026-06-11*
@@ -339,4 +343,4 @@
 
 ---
 
-*Total: 78 articles*
+*Total: 79 articles*
