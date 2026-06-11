@@ -10,6 +10,10 @@
 
 ### June
 
+- [Out of the Tar Pit（タールピットから抜け出して）](./2026-06-11-out-of-the-tar-pit.md)  
+  Ben Moseley、Peter Marks | ソフトウェア複雑性の最大原因は可変状態と制御フローの偶発的複雑性であり、関数型＋リレーショナルモデルで除去可能だと論じる2006年の古典  
+  *2026-06-11*
+
 - [AIが自らを構築するとき](./2026-06-11-when-ai-builds-itself.md)  
   Marina Favaro、Jack Clark（Anthropic Institute） | Anthropic内部データから見たAIによるAI開発の加速——コード生産性8倍、研究実験52倍高速化、そして再帰的自己改良が迫る3つの未来シナリオ  
   *2026-06-11*
@@ -343,4 +347,4 @@
 
 ---
 
-*Total: 79 articles*
+*Total: 80 articles*
