@@ -10,6 +10,10 @@
 
 ### June
 
+- [信頼の信頼について](./2026-06-11-reflections-on-trusting-trust.md)  
+  Ken Thompson | コンパイラに自己増殖型バックドアを仕込む手法——ソースコード検証では決して検出できない攻撃の構造を、1984年のTuring Award講演で明晰に示したコンピュータセキュリティの古典  
+  *2026-06-11*
+
 - [Out of the Tar Pit（タールピットから抜け出して）](./2026-06-11-out-of-the-tar-pit.md)  
   Ben Moseley、Peter Marks | ソフトウェア複雑性の最大原因は可変状態と制御フローの偶発的複雑性であり、関数型＋リレーショナルモデルで除去可能だと論じる2006年の古典  
   *2026-06-11*
@@ -347,4 +351,4 @@
 
 ---
 
-*Total: 80 articles*
+*Total: 81 articles*
