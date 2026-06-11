@@ -10,10 +10,6 @@
 
 ### June
 
-- [システムの複雑さはどこから来るのか――Out of the tar pitを読む](./2026-06-11-system-complexity-out-of-the-tar-pit.md)  
-  矢野（Uzabase） | Out of the tar pit論文を「必須の複雑さ/付随的な複雑さ」の枠組みで丁寧に解説——状態/ロジック分割、Clean Architectureとの比較からFRP概念紹介まで
-  *2026-06-11*
-
 - [Out of the Tar Pit（タールピットから抜け出して）](./2026-06-11-out-of-the-tar-pit.md)  
   Ben Moseley、Peter Marks | ソフトウェア複雑性の最大原因は可変状態と制御フローの偶発的複雑性であり、関数型＋リレーショナルモデルで除去可能だと論じる2006年の古典  
   *2026-06-11*
@@ -351,4 +347,4 @@
 
 ---
 
-*Total: 81 articles*
+*Total: 80 articles*
