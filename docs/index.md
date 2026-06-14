@@ -10,6 +10,10 @@
 
 ### June
 
+- [形式手法とプログラミングの未来](./2026-06-15-formal-methods-future-programming.md)  
+  Yaron Minsky | Jane Streetが25年の懐疑を経て形式手法チームを立ち上げた理由——エージェント型コーディングが変えた費用対効果と、AI時代のソフトウェア工学の新たな方向性  
+  *2026-06-15*
+
 - [システム設計におけるエンドツーエンド引数](./2026-06-11-end-to-end-arguments-system-design.md)  
   J.H. Saltzer, D.P. Reed, D.D. Clark | 機能は通信の末端で実装すべき——TCP/IPからマイクロサービスまでインターネット設計の根幹を貫くエンドツーエンド原則を確立した1984年の古典  
   *2026-06-11*
@@ -359,4 +363,4 @@
 
 ---
 
-*Total: 83 articles*
+*Total: 84 articles*
