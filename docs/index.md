@@ -10,6 +10,10 @@
 
 ### June
 
+- [エコシステムなきフロンティアは安定しない](./2026-06-16-frontier-without-ecosystem-is-not-stable.md)  
+  Satya Nadella | Human Capital と Token Capital——AI時代の企業は「最良のモデル選び」ではなく、所有する学習ループの複利で差別化せよと説くMicrosoft CEOの論考  
+  *2026-06-16*
+
 - [形式手法とプログラミングの未来](./2026-06-15-formal-methods-future-programming.md)  
   Yaron Minsky | Jane Streetが25年の懐疑を経て形式手法チームを立ち上げた理由——エージェント型コーディングが変えた費用対効果と、AI時代のソフトウェア工学の新たな方向性  
   *2026-06-15*
@@ -363,4 +367,4 @@
 
 ---
 
-*Total: 84 articles*
+*Total: 85 articles*
