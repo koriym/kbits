@@ -10,6 +10,10 @@
 
 ### June
 
+- [仕事で「何もしない」ことの効用](./2026-06-30-doing-nothing-at-work.md)  
+  Sean Goedecke | ソフトウェアエンジニアは80%稼働を目指すべき——高インパクトな仕事は「暇であること」から生まれ、糊仕事を避け捕食者から身を守る実践的戦略  
+  *2026-06-30*
+
 - [エコシステムなきフロンティアは安定しない](./2026-06-16-frontier-without-ecosystem-is-not-stable.md)  
   Satya Nadella | Human Capital と Token Capital——AI時代の企業は「最良のモデル選び」ではなく、所有する学習ループの複利で差別化せよと説くMicrosoft CEOの論考  
   *2026-06-16*
@@ -367,4 +371,4 @@
 
 ---
 
-*Total: 85 articles*
+*Total: 86 articles*
