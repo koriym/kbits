@@ -1,4 +1,4 @@
-# AIがエンジニアより高くつくとき——2029年のAI支出損益分岐点
+# AIがエンジニアより高くつくとき
 
 **原題:** When AI Costs More Than the Engineer  
 **著者:** Tom Tunguz  
