@@ -10,6 +10,10 @@
 
 ### July
 
+- [大波は来た ── 智譜AI創業者・唐傑、ポストGLMモーメントの内部レター](./2026-07-13-the-great-wave-has-arrived.md)  
+  唐傑（Jie Tang） | 時価総額1兆香港ドルを突破した智譜AIのCEOが、AGIを「全人類の知恵の総和」と定義し、Long Horizon Task・Autonomous Agent・Self-Evolvingの3つの峰を越える「Touch High Plan」を宣言した戦略的内部レター  
+  *2026-07-13*
+
 - [Claude Fable 5のためのフィールドガイド：未知を見つける](./2026-07-12-field-guide-claude-fable-unknowns.md)  
   Thariq Shihipar | 地図（プロンプト）と領土（コードベース）のズレを「未知」と定義し、既知の未知・未知の未知・未知の既知に分類した上で、ブラインドスポット・パスから実装後クイズまで8つの具象パターンをAnthropic技術スタッフが解説する実践ガイド  
   *2026-07-12*
@@ -400,4 +404,4 @@
 
 ---
 
-*Total: 93 articles*
+*Total: 94 articles*
