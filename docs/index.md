@@ -10,6 +10,10 @@
 
 ### July
 
+- [逆情報パラドックス —— AI時代に企業はコア資産をどう守るか](./2026-07-14-reverse-information-paradox.md)  
+  Satya Nadella | アローの「情報の逆説」を反転させ、AI時代には買い手が知識を手放すリスクを負うと定式化——Control・Capability・Choice・Cost・Compoundの「5つのC」フレームワークで企業の信頼境界を再定義するMicrosoft CEOの論考  
+  *2026-07-14*
+
 - [大波は来た ── 智譜AI創業者・唐傑、ポストGLMモーメントの内部レター](./2026-07-13-the-great-wave-has-arrived.md)  
   唐傑（Jie Tang） | 時価総額1兆香港ドルを突破した智譜AIのCEOが、AGIを「全人類の知恵の総和」と定義し、Long Horizon Task・Autonomous Agent・Self-Evolvingの3つの峰を越える「Touch High Plan」を宣言した戦略的内部レター  
   *2026-07-13*
@@ -404,4 +408,4 @@
 
 ---
 
-*Total: 94 articles*
+*Total: 95 articles*
