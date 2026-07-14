@@ -10,6 +10,10 @@
 
 ### July
 
+- [フロンティアAIのための枠組みと、新時代の夜明け](./2026-07-14-framework-for-frontier-ai.md)  
+  Demis Hassabis | AGIは「数年先」——FINRA型の標準化機関、Frontier-class閾値、市場投入前審査、必要なら開発減速の協調まで踏み込む、DeepMind CEO自身によるフロンティアAI統治の設計図  
+  *2026-07-14*
+
 - [逆情報パラドックス —— AI時代に企業はコア資産をどう守るか](./2026-07-14-reverse-information-paradox.md)  
   Satya Nadella | アローの「情報の逆説」を反転させ、AI時代には買い手が知識を手放すリスクを負うと定式化——Control・Capability・Choice・Cost・Compoundの「5つのC」フレームワークで企業の信頼境界を再定義するMicrosoft CEOの論考  
   *2026-07-14*
@@ -408,4 +412,4 @@
 
 ---
 
-*Total: 95 articles*
+*Total: 96 articles*
