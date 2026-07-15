@@ -10,6 +10,10 @@
 
 ### July
 
+- [あなたは今、100万人のダメな従業員を雇った](./2026-07-15-you-just-hired-a-million-bad-employees.md)  
+  George Sivulka | 人間は史上初めてソフトウェアより安くなった——鉄道が近代マネジメントを生んだ史実を軸に、トークンを「管理すべき労働力」と捉え、evalを新しいOKRかつ競争優位の堀と位置づけるHebbia CEOの論  
+  *2026-07-15*
+
 - [フロンティアAIのための枠組みと、新時代の夜明け](./2026-07-14-framework-for-frontier-ai.md)  
   Demis Hassabis | AGIは「数年先」——FINRA型の標準化機関、Frontier-class閾値、市場投入前審査、必要なら開発減速の協調まで踏み込む、DeepMind CEO自身によるフロンティアAI統治の設計図  
   *2026-07-14*
@@ -412,4 +416,4 @@
 
 ---
 
-*Total: 96 articles*
+*Total: 97 articles*
