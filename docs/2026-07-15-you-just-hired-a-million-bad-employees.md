@@ -3,7 +3,7 @@
 **原題:** You just hired a million bad employees.  
 **著者:** George Sivulka（Hebbia 創業者兼CEO）  
 **公開日:** 2026年7月  
-**ソースURL:** [https://x.com/gsivulka/status/2077070925154161101](https://x.com/gsivulka/status/2077070925154161101)  
+**ソースURL:** [https://www.a16z.news/p/the-next-ai-goldrush-tokens-loops](https://www.a16z.news/p/the-next-ai-goldrush-tokens-loops)  
 **アーカイブ日:** 2026-07-15
 
 ---
