@@ -10,6 +10,10 @@
 
 ### July
 
+- [OpenAI元CTOムラティの新AIが露わにした「中国製への傾倒」——米中AI競争の重心移動](./2026-07-24-mira-murati-inkling-china-ai-shift.md)  
+  Amir Husain | OpenAI元CTOミラ・ムラティ率いるThinking Machines Labの初モデル「Inkling」がDeepSeek-V3アーキテクチャを採用しKimi K2.5で訓練された事実から、米中AI競争の重心が中国のオープンモデルに移った構造変化と、保護主義が米国企業を不利にする逆説を論じる  
+  *2026-07-24*
+
 - [Kimiの内側で過ごした100時間 —— AIネイティブ組織の解剖](./2026-07-21-100-hours-inside-kimi.md)  
   劉沫（Liu Mo）、翻訳：Rui Ma | Moonshot AI（Kimi）の100時間参与観察ルポ——部門もOKRもKPIもない「AIネイティブ組織」の実像を、社員一人ひとりの声と「二次元の箔」のメタファーで描く  
   *2026-07-21*
@@ -428,4 +432,4 @@
 
 ---
 
-*Total: 100 articles*
+*Total: 101 articles*
