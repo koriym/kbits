@@ -10,6 +10,10 @@
 
 ### July
 
+- [梁文鋒、沈黙を破る——DeepSeek創業者が語る「自制」という戦略](./2026-07-24-liang-wenfeng-breaks-his-silence.md)  
+  Fred Gao | DeepSeek創業者・梁文鋒の流出投資家対話記録——「自制」を戦略の中核に据え、AGIを「一企業が独占できない波」と捉える道教的な哲学、CUDAバイパス、米国の唯一の優位は計算資源だとする主張、そして継続的学習→自己進化→身体化のロードマップを4時間にわたって語った稀有な一次資料  
+  *2026-07-24*
+
 - [OpenAI元CTOムラティの新AIが露わにした「中国製への傾倒」——米中AI競争の重心移動](./2026-07-24-mira-murati-inkling-china-ai-shift.md)  
   Amir Husain | OpenAI元CTOミラ・ムラティ率いるThinking Machines Labの初モデル「Inkling」がDeepSeek-V3アーキテクチャを採用しKimi K2.5で訓練された事実から、米中AI競争の重心が中国のオープンモデルに移った構造変化と、保護主義が米国企業を不利にする逆説を論じる  
   *2026-07-24*
@@ -432,4 +436,4 @@
 
 ---
 
-*Total: 101 articles*
+*Total: 102 articles*
