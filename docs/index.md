@@ -8,6 +8,12 @@
 
 ## 2026
 
+### August
+
+- [Google検索は死につつある。次に来るものはもっと悪い](./2026-08-11-google-search-is-dying.md)  
+  Vass Bednar | Google検索の劣化を「デジタル主権」のレンズで捉え直し、FiveThirtyEightのアーカイブ削除、Wikipediaの流入減、Internet Archiveへの攻撃、欧州の対抗策、カナダの公共デジタルインフラの歴史を統合して、集合的記憶のインフラとしての検索の再定義を訴える  
+  *2026-08-11*
+
 ### July
 
 - [梁文鋒、沈黙を破る——DeepSeek創業者が語る「自制」という戦略](./2026-07-24-liang-wenfeng-breaks-his-silence.md)  
@@ -436,4 +442,4 @@
 
 ---
 
-*Total: 102 articles*
+*Total: 103 articles*
