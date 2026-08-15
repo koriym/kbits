@@ -10,6 +10,10 @@
 
 ### August
 
+- [GoがAI支援ソフトウェア工学に理想的な言語である理由](./2026-08-15-why-go-is-an-ideal-language-for-ai-assisted-software-engineering.md)  
+  Cameron Balahan、Richard Seroter | AIがコードを書く時代、言語選択の軸は「書きやすさ」から「検証しやすさ」へ移る——Goの静的型システム・標準ライブラリ・モジュールミラー・互換性保証が、エージェント出力を吸収する決定論的ガードレールになると論じるGoチームの擁護論  
+  *2026-08-15*
+
 - [Google検索は死につつある。次に来るものはもっと悪い](./2026-08-11-google-search-is-dying.md)  
   Vass Bednar | Google検索の劣化を「デジタル主権」のレンズで捉え直し、FiveThirtyEightのアーカイブ削除、Wikipediaの流入減、Internet Archiveへの攻撃、欧州の対抗策、カナダの公共デジタルインフラの歴史を統合して、集合的記憶のインフラとしての検索の再定義を訴える  
   *2026-08-11*
@@ -442,4 +446,4 @@
 
 ---
 
-*Total: 103 articles*
+*Total: 104 articles*
