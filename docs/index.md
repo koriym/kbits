@@ -10,6 +10,10 @@
 
 ### August
 
+- [Crosby：ネオファームの内側 —— 時間ではなく成果を売るAIネイティブ法律事務所の解剖](./2026-08-19-crosby-inner-workings-of-a-neofirm.md)  
+  Nix | AIネイティブ法律事務所Crosbyへの2週間の参与観察——ビラブルアワーの崩壊、成果ベースの固定料金、利益のR&D再投資、弁護士とエンジニアのハイブリッド組織という「ネオファーム」の内実を、タイムトライアル実測データやeval基盤の内幕まで含めて記録する  
+  *2026-08-19*
+
 - [GoがAI支援ソフトウェア工学に理想的な言語である理由](./2026-08-15-why-go-is-an-ideal-language-for-ai-assisted-software-engineering.md)  
   Cameron Balahan、Richard Seroter | AIがコードを書く時代、言語選択の軸は「書きやすさ」から「検証しやすさ」へ移る——Goの静的型システム・標準ライブラリ・モジュールミラー・互換性保証が、エージェント出力を吸収する決定論的ガードレールになると論じるGoチームの擁護論  
   *2026-08-15*
@@ -446,4 +450,4 @@
 
 ---
 
-*Total: 104 articles*
+*Total: 105 articles*
