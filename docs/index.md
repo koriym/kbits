@@ -10,6 +10,10 @@
 
 ### August
 
+- [エージェントループ内のTDD —— 芝居か、実利か](./2026-08-24-tdd-in-the-agent-loop.md)  
+  Birgitta Böckeler | ThoughtworksのDistinguished Engineerが自作evalで検証——エージェントにループ内でTDDをさせても品質差は出ず、むしろ非TDD解が上位に、コストは3〜8倍。「人間に良いものはエージェントにも良い」という前提に実データで疑義を突きつける  
+  *2026-08-24*
+
 - [Crosby：ネオファームの内側 —— 時間ではなく成果を売るAIネイティブ法律事務所の解剖](./2026-08-19-crosby-inner-workings-of-a-neofirm.md)  
   Nix | AIネイティブ法律事務所Crosbyへの2週間の参与観察——ビラブルアワーの崩壊、成果ベースの固定料金、利益のR&D再投資、弁護士とエンジニアのハイブリッド組織という「ネオファーム」の内実を、タイムトライアル実測データやeval基盤の内幕まで含めて記録する  
   *2026-08-19*
@@ -450,4 +454,4 @@
 
 ---
 
-*Total: 105 articles*
+*Total: 106 articles*
