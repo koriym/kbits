@@ -10,6 +10,10 @@
 
 ### August
 
+- [出口へ向かって——エンジニアリングリーダーの大キャリアブレイク](./2026-08-31-the-great-engineering-leader-career-break.md)  
+  Gergely Orosz | 約20人のCTO・VPEへの一次インタビューから、AIをめぐる非現実的な期待、紙切れになるエクイティ、チーム縮小によるリーダー不要化など、2026年に相次ぐエンジニアリングリーダーの退職を10の理由で解剖する  
+  *2026-08-31*
+
 - [エージェントループ内のTDD —— 芝居か、実利か](./2026-08-24-tdd-in-the-agent-loop.md)  
   Birgitta Böckeler | ThoughtworksのDistinguished Engineerが自作evalで検証——エージェントにループ内でTDDをさせても品質差は出ず、むしろ非TDD解が上位に、コストは3〜8倍。「人間に良いものはエージェントにも良い」という前提に実データで疑義を突きつける  
   *2026-08-24*
@@ -454,4 +458,4 @@
 
 ---
 
-*Total: 106 articles*
+*Total: 107 articles*
