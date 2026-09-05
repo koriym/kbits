@@ -10,6 +10,10 @@
 
 ### September
 
+- [フロントエンドWeb開発に今まさに落ちている小惑星](./2026-09-06-asteroid-hitting-frontend-web-development.md)  
+  Nolan Lawson | フロントエンド教育者の撤退を出発点に、自分の得意分野のCSS性能の難問をClaudeが解いてしまった体験から、フロントエンドは委ねやすい、開発者体験よりエージェント体験、標準の焦点はエルゴノミクスから能力へ、という三つの逆風と、MPAの再評価やエージェント向けサイト、vibe codingの後始末という三つの活路を論じる。  
+  *2026-09-06*
+
 - [Agent-as-a-Router —— コーディングタスクのためのエージェント型モデルルーティング](./2026-09-05-agent-as-a-router.md)  
   Zhou、Tang、You ら（NUS、Alibaba DAMO他） | LLMルーターの限界は推論力ではなく情報不足だと診断し、ルーティングをContext→Action→Feedbackの検証済み経験を蓄積するループとして再定式化——約1万タスク・8モデルのCodeRouterBenchで累積リグレットを比較し、静的分類器が分布外で崩壊する一方、ACRouterが分布内外で最良かつOpus常用より低コストであることを示す  
   *2026-09-05*
@@ -468,4 +472,4 @@
 
 ---
 
-*Total: 109 articles*
+*Total: 110 articles*
