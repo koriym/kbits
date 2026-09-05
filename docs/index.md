@@ -8,6 +8,12 @@
 
 ## 2026
 
+### September
+
+- [Agent-as-a-Router —— コーディングタスクのためのエージェント型モデルルーティング](./2026-09-05-agent-as-a-router.md)  
+  Zhou、Tang、You ら（NUS、Alibaba DAMO他） | LLMルーターの限界は推論力ではなく情報不足だと診断し、ルーティングをContext→Action→Feedbackの検証済み経験を蓄積するループとして再定式化——約1万タスク・8モデルのCodeRouterBenchで累積リグレットを比較し、静的分類器が分布外で崩壊する一方、ACRouterが分布内外で最良かつOpus常用より低コストであることを示す  
+  *2026-09-05*
+
 ### August
 
 - [Uber規模でソフトウェア・ファクトリーを効率的に回す](./2026-08-31-efficient-software-factory.md)  
@@ -462,4 +468,4 @@
 
 ---
 
-*Total: 108 articles*
+*Total: 109 articles*
