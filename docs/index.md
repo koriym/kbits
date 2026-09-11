@@ -10,6 +10,10 @@
 
 ### September
 
+- [ネイティブがShopifyのモバイルの未来になった——React NativeからSwift／Kotlinへ回帰する理由](./2026-09-11-shopify-back-to-native.md)  
+  Mustafa Ali | ShopifyがReact NativeからSwift／Kotlinへ回帰した理由を当事者が説明。コーディングエージェントが「二度作るコスト」を消したことで2020年の前提が崩れ、チェックポイント式移行システムHelixとヘッドレスCLIによる高速フィードバックループで全アプリを再構築する。  
+  *2026-09-11*
+
 - [Claude憲章はどう人格を設計しているのか](./2026-09-11-how-claude-constitution-designs-persona.md)  
   大林 寛 / Hiroshi Obayashi | 大林寛によるClaude憲章の哲学的読解。憲章を人間宛て倫理文書と機械宛て記述の交点に置き、二人称構造、徳倫理と義務論の混成、三つのバウンダリー、営利企業が徳を書くことの緊張、「文が人をつくる」反転を論じる。  
   *2026-09-11*
@@ -480,4 +484,4 @@
 
 ---
 
-*Total: 112 articles*
+*Total: 113 articles*
