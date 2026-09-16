@@ -10,6 +10,10 @@
 
 ### September
 
+- [ダリオ、頼むよ！](./2026-09-17-dario-please.md)  
+  0x5FC3 | サイバーセキュリティ実務者がAmodeiの「We Must Pace the Frontier」を批判。6〜12か月でエージェント群がインターネットをボットネットで掌握するという予測を実務要件へ分解して反証し、埋め込み評価者と独立調査、1990年代の暗号輸出規制との類比を論じる。  
+  *2026-09-17*
+
 - [ネイティブがShopifyのモバイルの未来になった——React NativeからSwift／Kotlinへ回帰する理由](./2026-09-11-shopify-back-to-native.md)  
   Mustafa Ali | ShopifyがReact NativeからSwift／Kotlinへ回帰した理由を当事者が説明。コーディングエージェントが「二度作るコスト」を消したことで2020年の前提が崩れ、チェックポイント式移行システムHelixとヘッドレスCLIによる高速フィードバックループで全アプリを再構築する。  
   *2026-09-11*
@@ -484,4 +488,4 @@
 
 ---
 
-*Total: 113 articles*
+*Total: 114 articles*
