@@ -10,6 +10,10 @@
 
 ### October
 
+- [「ゲームはまだ未熟だ」宮本茂が2014年の任天堂株主総会で語ったこと](./2026-10-26-games-are-still-immature-miyamoto-2014.md)  
+  Akihito Koriyama | 三期連続赤字の2014年任天堂株主総会で、質問者本人が竹田玄洋と宮本茂から引き出した「ゲームの創造性はまだ未熟で過渡期にある」という答えの一次記録。外部要因論に対し問題を内側に向けた発言と、Switch・マリオ映画・文化勲章に至る12年の帰結を追う。  
+  *2026-10-26*
+
 - [PHP 8.5.12の緊急リリースにpixivはどう対応したか](./2026-10-26-how-pixiv-responded-to-php-8-5-12-emergency-release.md)  
   picopico（pixiv Platform Division Infrastructure Unit） | pixivがPHPの深刻な脆弱性（PHP2Shell）への緊急パッチをリリース後約30分でサービス復旧させた一部始終。公式イメージを待たずソースからビルドできるBake構成、NVMeキャッシュを持つ常駐BuildKit、COPY --linkによるキャッシュ維持、registry proxyでの高速配布、PECLからPIEへの移行までを実測値と当日の失敗込みで記録する。  
   *2026-10-26*
@@ -510,4 +514,4 @@
 
 ---
 
-*Total: 119 articles*
+*Total: 120 articles*
