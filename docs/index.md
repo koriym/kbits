@@ -10,6 +10,10 @@
 
 ### October
 
+- [PHP 8.5.12の緊急リリースにpixivはどう対応したか](./2026-10-26-how-pixiv-responded-to-php-8-5-12-emergency-release.md)  
+  picopico（pixiv Platform Division Infrastructure Unit） | pixivがPHPの深刻な脆弱性（PHP2Shell）への緊急パッチをリリース後約30分でサービス復旧させた一部始終。公式イメージを待たずソースからビルドできるBake構成、NVMeキャッシュを持つ常駐BuildKit、COPY --linkによるキャッシュ維持、registry proxyでの高速配布、PECLからPIEへの移行までを実測値と当日の失敗込みで記録する。  
+  *2026-10-26*
+
 - [プログラミングの終わり](./2026-10-26-the-end-of-programming-paul-dix.md)  
   Paul Dix | Bun 1.4の100万行Rust書き直しと、InfluxDBフォークでの14時間・28時間の無人実装を根拠に、人間が書き人間が全行レビューする開発は終わり、検証ハーネスと使用による改善ループが中核になると論じる。  
   *2026-10-26*
@@ -506,4 +510,4 @@
 
 ---
 
-*Total: 118 articles*
+*Total: 119 articles*
