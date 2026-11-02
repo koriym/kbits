@@ -8,6 +8,12 @@
 
 ## 2026
 
+### November
+
+- [AIネイティブなエンジニアリング組織を構築する](./2026-11-02-building-an-ai-native-engineering-org.md)  
+  Sashank Gondala | 9か月の工程別改善の時系列と測定値（マージ数5倍、revert率0.5%未満、テスト付与率91%、AI事前レビュー99%、自動マージ最大3分の1）を示し、実装高速化後は計画とレビューが時間の70%を占めるという算術から、エンジニアへの権限移譲とマネージャーの役割再定義を論じる。  
+  *2026-11-02*
+
 ### October
 
 - [エンジニアが解くべき新しい問題群](./2026-10-27-new-set-of-problems-for-engineers-to-solve.md)  
@@ -518,4 +524,4 @@
 
 ---
 
-*Total: 121 articles*
+*Total: 122 articles*
