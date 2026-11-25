@@ -10,6 +10,10 @@
 
 ### November
 
+- [AI企業が理論高エネルギー物理学で生み出した研究成果の共有に関する声明](./2026-11-25-statement-on-sharing-ai-company-results-in-theoretical-hep.md)  
+  署名した理論高エネルギー物理学者たち | 理論高エネルギー物理学者たちが、AI企業の内部モデルが同分野で生み出す主要な研究結果を公開かつ完全に発表するよう求めた連名声明。CERNのWorld Wide WebとarXivという分野の歴史を根拠に、対等な検討と共同精査の価値を説く。  
+  *2026-11-25*
+
 - [ARTEXだけではない — 日本を狙う攻撃におけるAI利用の水準の違い](./2026-11-19-not-only-artex-ai-levels-targeting-japan.md)  
   Bakuei Matsukawa、Joseph C Chen | 日本を狙う三つの攻撃インフラを残存ファイルから解析し、AIの関与を「担う範囲」と「確信度」の二軸で区別。自律実行から限定的なツール開発支援まで、AIが攻撃の規模と速度を変えつつ入口と脆弱性の性質は変えていないことを示す。  
   *2026-11-19*
@@ -552,4 +556,4 @@
 
 ---
 
-*Total: 129 articles*
+*Total: 130 articles*
